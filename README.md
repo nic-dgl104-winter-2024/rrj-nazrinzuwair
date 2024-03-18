@@ -19,7 +19,32 @@ There are many valuable online resources available for learning Lua. Some of my 
 I've had the opportunity to delve into the responses shared by fellow students this week, and it's been enlightening. While exploring Lua, I stumbled upon valuable insights shared by my peers, which deepened my understanding of the language. Moreover, I gained a comprehensive overview of other languages like Haskell and Processing through their posts. This process not only expanded my knowledge but also helped me identify additional resources beyond what I initially discovered. It's been a rewarding experience, and I look forward to further exploration.
 
 
+### WRITE A USER STORY    
 
+The app that I have chosen is Facebook because of its popularity among diverse user groups and its wide range of uses.
+
+   - User Stories:
+
+       1. As a student, I use Facebook to join local groups to find vacant rooms in the valley.
+       2. As a job seeker, I use Facebook to join local communities to learn about those who are actively hiring.
+       3. As a businessman, I use Facebook to join Marketplace groups for buy/sell purposes.
+       4. As a student, I use Facebook to look for information on visa processing, Asian restaurants, etc.
+       5. As a local, I use Facebook to get updates on upcoming events, job fairs.
+
+   - Acceptance Criteria:
+
+       1. Include a hashtag feature to indicate relevant locations, preferences, and event names.
+       2. Implement upload features to allow users to upload images.
+       3. Provide text fields for users to input and post content.
+       4. Include a search field for users to easily find relevant information.
+       5. Example of Acceptance Criteria:
+
+   - Hashtagged posts should be searchable and clickable, leading to related content.
+       1. Uploaded images should display correctly and be scalable for various screen sizes.
+       2. Text fields should support a variety of characters and allow for basic formatting options.
+       3. The search field should provide relevant results based on keywords and hashtags.
+
+       
 ## References
 
 Academy, C. (n.d.). Learn Lua. Retrieved from Codecademy: https://www.codecademy.com/learn/learn-lua
