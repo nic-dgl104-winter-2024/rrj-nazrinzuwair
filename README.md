@@ -2,7 +2,7 @@
 
 ## Day 1 - 26th February 2024
 
-### Research A New Language
+### RESEARCH A NEW LANGUAGE
 
 Lua is an embeddable scripting language and is popular for its powerful and lightweight features. Lua has been used in many industrial applications, such as Adobe's Photoshop Lightroom, and in embedded systems like the Ginga middleware for digital TV in Brazil (Lua, 2024). Additionally, Lua is prominently featured in many famous games, such as World of Warcraft and Angry Birds. Lua also facilitates rapid modifications to basic systems, existing applications, or hardware (Stieg, 2022). Furthermore, Lua is increasingly used in network programming, such as in CISCO Systems, Nmap, and ModSecurity, to enhance overall performance and create advanced functionalities. It plays a major role in scripting tasks, including automation, file manipulation, and web scraping, often combined with other languages to  craft tailored applications  (Wambua, 2022).
 
@@ -12,6 +12,13 @@ There are many valuable online resources available for learning Lua. Some of my 
   - [Tutorialspoint](https://www.tutorialspoint.com/lua/index.htm) - Tutorialspoint offers a detailed Lua tutorial covering various aspects of the language.
   - [Lua Learning](https://www.lualearning.org/) - Lua Learning organization provides interactive tutorials and resources for beginners and advanced learners alike.
   - [Codecademy](https://www.codecademy.com/learn/learn-lua) - Codecademy offers an interactive Lua course for learning through hands-on exercises and projects.
+
+
+### REFLECT ON SLACK NEW LANGUAGE RESPONSES
+
+I've had the opportunity to delve into the responses shared by fellow students this week, and it's been enlightening. While exploring Lua, I stumbled upon valuable insights shared by my peers, which deepened my understanding of the language. Moreover, I gained a comprehensive overview of other languages like Haskell and Processing through their posts. This process not only expanded my knowledge but also helped me identify additional resources beyond what I initially discovered. It's been a rewarding experience, and I look forward to further exploration.
+
+
 
 ## References
 
