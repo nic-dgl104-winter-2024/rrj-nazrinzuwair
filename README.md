@@ -44,7 +44,18 @@ The app that I have chosen is Facebook because of its popularity among diverse u
        2. Text fields should support a variety of characters and allow for basic formatting options.
        3. The search field should provide relevant results based on keywords and hashtags.
 
-       
+
+## Day 2 - 28th February 2024
+
+### READ THE RESEARCH & REFLECTION ASSIGNMENT
+Today, I spent time carefully reading the Research & Reflection Assignment. I learned what's expected and how my work will be judged from the assignment description and rubric. Understanding this helps me start the assignment in a structured and effective way.
+
+
+### CHOOSE A LANGUAGE FOR COMMUNITY CODE
+The language I would like to focus on for the community code project is JavaScript. I have years of experience using JavaScript, starting almost since my Higher National Diploma. Although my proficiency is at a basic level rather than advanced, I aim to utilize this opportunity to conduct thorough research on the language, improve my skills, and gain hands-on experience. One major reason why I chose JavaScript is because I believe that making weekly progress on the community project using this language will help me stay on track and learn about its complexity without giving up.
+
+
+
 ## References
 
 Academy, C. (n.d.). Learn Lua. Retrieved from Codecademy: https://www.codecademy.com/learn/learn-lua
