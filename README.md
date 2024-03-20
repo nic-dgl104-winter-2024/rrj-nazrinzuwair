@@ -90,9 +90,9 @@ For Part 1 of the assignment, the focus is on contributing to a real open-source
 For Part 2, I understand that I have to make my contributions to the DGL 104 pattern library repository. I will be applying my coding skills to this section with a focus on design patterns. After looking at the rubrics, I feel they are pretty clear, and a good grade can be achieved by following them. I also appreciate the structured categorization in the rubrics, which helps to focus on achieving the highest grade.
 
 
+### READ THE RESEARCH AND REFLECTION GUIDE
 
-
-
+I read the 'Research and Reflection Journal Guide', which was very helpful for me in understanding the lecturer's expectations. Initially, I completed my work using a different structure. However, after reading the 'Research and Reflection Journal Guide', I found a much better method to structure my journal. It also helped me identify the tense of language that I should use when writing it.
 
 
 
