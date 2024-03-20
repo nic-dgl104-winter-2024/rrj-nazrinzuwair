@@ -77,6 +77,33 @@ While exploring my GitHub explorer tab, I noticed some repositories that caught 
     - Examining repositories on GitHub proved to be incredibly valuable. I was particularly fascinated by the diverse techniques and programming styles employed by different contributors. It was surprising to see how contributors collaboratively work on a single repository, demonstrating the value of teamwork in producing high-quality outputs. Moreover, I observed similarities across some of the repositories, such as the use of modular code structures, comprehensive documentation, and active community engagement. 
 
 
+# Week 9 - Research and Reflection Journal
+
+## Day 5 - 05th March 2024
+
+### READ THE COMMUNITY CODE ASSIGNMENT
+
+In reading the information about the community code project, I found that we should focus on contributing to an open-source project and writing code. I really like how the assignment is structured because it's only about writing code for one of them. Additionally, I understand the different coding contributions that I have to make, such as using a programming language and another using a markup language.
+
+For Part 1 of the assignment, the focus is on contributing to a real open-source community. I feel that, for this purpose, I would be more willing to use approaches like improving code documentation, writing a code tutorial, or working on translations. These would be the best choices for me to contribute. The major reason for choosing these instead of writing code or answering community questions is because I am still at a basic level, and I will not be able to do my best with the limited time available for those tasks.
+
+For Part 2, I understand that I have to make my contributions to the DGL 104 pattern library repository. I will be applying my coding skills to this section with a focus on design patterns. After looking at the rubrics, I feel they are pretty clear, and a good grade can be achieved by following them. I also appreciate the structured categorization in the rubrics, which helps to focus on achieving the highest grade.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## References
 
