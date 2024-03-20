@@ -54,6 +54,10 @@ Today, I spent time carefully reading the Research & Reflection Assignment. I le
 ### CHOOSE A LANGUAGE FOR COMMUNITY CODE
 The language I would like to focus on for the community code project is JavaScript. I have years of experience using JavaScript, starting almost since my Higher National Diploma. Although my proficiency is at a basic level rather than advanced, I aim to utilize this opportunity to conduct thorough research on the language, improve my skills, and gain hands-on experience. One major reason why I chose JavaScript is because I believe that making weekly progress on the community project using this language will help me stay on track and learn about its complexity without giving up.
 
+## Day 3 - 1st March 2024
+
+### STAR GITHUB TOPICS AND REPOSITORIES OF INTEREST
+While exploring my GitHub explorer tab, I noticed some repositories that caught my interest, such as ['tipjs/javascript-style-guide'](https://github.com/tipjs/javascript-style-guide) and ['ryanmcdermott/clean-code-javascript'](https://github.com/ryanmcdermott/clean-code-javascript). Then, I explored the Topics tab and found more intriguing repositories like ['freeCodeCamp/freeCodeCamp'](https://github.com/freeCodeCamp/freeCodeCamp) and ['Asabeneh/30-Days-Of-JavaScript'](https://github.com/Asabeneh/30-Days-Of-JavaScript), which I believe will help me achieve my goal of mastering JavaScript skills. Next, while browsing the trending section, I came across the repository ['LeCoupa/awesome-cheatsheets'](https://github.com/LeCoupa/awesome-cheatsheets), which offers useful JavaScript snippets for effective animation. After that, I checked the Collections tab and found the ['Front-end JavaScript frameworks'](https://github.com/collections/front-end-javascript-frameworks) collection, which aligns perfectly with my language preferences. Doing this helped me to fill my Explorer tab with some really interesting and valuable repositories.
 
 
 ## References
