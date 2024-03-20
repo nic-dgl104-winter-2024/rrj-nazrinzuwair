@@ -60,6 +60,24 @@ The language I would like to focus on for the community code project is JavaScri
 While exploring my GitHub explorer tab, I noticed some repositories that caught my interest, such as ['tipjs/javascript-style-guide'](https://github.com/tipjs/javascript-style-guide) and ['ryanmcdermott/clean-code-javascript'](https://github.com/ryanmcdermott/clean-code-javascript). Then, I explored the Topics tab and found more intriguing repositories like ['freeCodeCamp/freeCodeCamp'](https://github.com/freeCodeCamp/freeCodeCamp) and ['Asabeneh/30-Days-Of-JavaScript'](https://github.com/Asabeneh/30-Days-Of-JavaScript), which I believe will help me achieve my goal of mastering JavaScript skills. Next, while browsing the trending section, I came across the repository ['LeCoupa/awesome-cheatsheets'](https://github.com/LeCoupa/awesome-cheatsheets), which offers useful JavaScript snippets for effective animation. After that, I checked the Collections tab and found the ['Front-end JavaScript frameworks'](https://github.com/collections/front-end-javascript-frameworks) collection, which aligns perfectly with my language preferences. Doing this helped me to fill my Explorer tab with some really interesting and valuable repositories.
 
 
+## Day 4 - 2nd March 2024
+
+### FOLLOW-UP QUESTIONS AND REFLECTIONS
+
+1. What is one interesting thing that you’ve learned from researching about programming languages and from reading other students’ postings about programming languages in response to the first activity?
+
+    - By researching programming languages, I discovered the differences between them and their unique features. Understanding these differences highlighted how choosing the appropriate language can significantly enhance the functionality of an application. Additionally, reading my classmates' postings about their chosen languages provided insight into how each individual perceives the importance of their selected language and how they base their choices on their skills and interests.
+
+2. What other programming languages might you consider to work with for DGL 104? What are your second choices, and why?
+
+    - While considering other programming languages for DGL 104, I was intrigued by the idea of working with newer languages like React Native or Kotlin. My second choice would have been React Native, as it offers cross-platform development capabilities. However, I decided against choosing these languages due to their novelty and the limited time available for in-depth research. Given the constraints of the project timeline, I opted to focus on a language with which I already had some familiarity to maximize productivity and learning outcomes.
+
+3. What did you find most interesting when examining repositories on GitHub? Is there anything that surprised you, or that you didn’t expect? What similarities are there across some of the repositories you’ve starred?
+
+    - Examining repositories on GitHub proved to be incredibly valuable. I was particularly fascinated by the diverse techniques and programming styles employed by different contributors. It was surprising to see how contributors collaboratively work on a single repository, demonstrating the value of teamwork in producing high-quality outputs. Moreover, I observed similarities across some of the repositories, such as the use of modular code structures, comprehensive documentation, and active community engagement. 
+
+
+
 ## References
 
 Academy, C. (n.d.). Learn Lua. Retrieved from Codecademy: https://www.codecademy.com/learn/learn-lua
