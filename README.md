@@ -95,13 +95,45 @@ For Part 2, I understand that I have to make my contributions to the DGL 104 pat
 I read the 'Research and Reflection Journal Guide', which was very helpful for me in understanding the lecturer's expectations. Initially, I completed my work using a different structure. However, after reading the 'Research and Reflection Journal Guide', I found a much better method to structure my journal. It also helped me identify the tense of language that I should use when writing it.
 
 
+## Day 6 - 07th March 2024
+
+### READ “HOW TO CONTRIBUTE TO OPEN SOURCE”
 
 
 
 
+### FIND POTENTIAL PROJECTS TO CONTRIBUTE TO
 
 
 
+### EXPLORE COMMUNITY CONNECTIONS
+
+
+
+## Day 7 - 08th March 2024
+
+### IDENTIFY ISSUES TO SUPPORT
+
+
+
+### WRITE A SUMMARY ON SLACK
+
+
+
+## Day 8 - 09th March 2024
+
+### FOLLOW-UP QUESTIONS AND REFLECTIONS
+
+
+01. What is the most surprising thing that you’ve learned about open source development and/or open source communities during your research this week?
+
+
+
+02. What types of open source projects do you find yourself most drawn to? Is there an obvious connection between them?
+
+
+
+03. Is the programming language that you chose last week still the right choice? Should you consider alternatives?
 
 
 
