@@ -99,8 +99,23 @@ I read the 'Research and Reflection Journal Guide', which was very helpful for m
 
 ### READ “HOW TO CONTRIBUTE TO OPEN SOURCE”
 
+#### Summary
 
+By reading the [How to Contribute to Open Source](https://opensource.guide/) guide, I gained an understanding of the underlying reasons why people contribute to open source and how contributing serves as a means to learn and develop hands-on experience. The guide also provided insights into becoming an open-source contributor, the types of individuals involved in an open-source project, and the various types of documentation (e.g., license, README, contributing, etc.) associated with a repository. Furthermore, it offers detailed explanations about the tools utilized in an open-source project to organize discussions. Additionally, the guide shed light on different effective ways to find a project to contribute to, offering a useful pre-made checklist to assess whether a project is suitable for accepting contributions. It also outlines various methods to submit contributions, including communication practices, performing a quick check on the README file, identifying appropriate situations to open an issue, the accurate way to open a pull request, and the post-submission process.
 
+Exploring the "What it means to contribute" section, I learned that contributing to open source isn't solely about coding, contrary to what I believed over the past year. I was able to identify highly effective ways to contribute to the code, such as:
+
+1. Organizing the project’s conference
+2. Restructuring layouts to enhance the project’s usability
+3. Writing and improving the project’s documentation (which I personally enjoy doing)
+4. Translating the project’s documentation
+5. Linking to duplicate issues and suggesting new issue labels, among other methods.
+
+Moreover, the "Finding a project to contribute to" section helped me understand how to leverage the repositories I typically use or find anything interesting. It also emphasized the significance of small contributions, such as correcting a typo or updating areas for improvement. Additionally, it introduced valuable resources like [GitHub Explore](https://github.com/explore/), [Open Source Friday](https://opensourcefriday.com/), and [First Timers Only](https://www.firsttimersonly.com/) for discovering projects that are best for contribution.
+
+#### Reflection
+
+Upon reading the "How to Contribute to Open Source" guide, I gained a clear understanding of the appropriate approach needed to engage with community code projects. Utilizing its insights, my initial plan involves using the checklist to identify a repository that aligns with my level of knowledge and expertise. Subsequently, I aim to employ various strategies such as drafting project documentation, providing translations, creating tutorials, and addressing issues such as duplicates and typos for contributing to the community.
 
 ### FIND POTENTIAL PROJECTS TO CONTRIBUTE TO
 
