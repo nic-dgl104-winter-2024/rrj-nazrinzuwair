@@ -163,10 +163,44 @@ Lastly, I investigated [First Contributions](https://github.com/firstcontributio
 
 ### IDENTIFY ISSUES TO SUPPORT
 
+**First Contributions**
 
+Issue: Add translations for cli-tool-tutorials.
+- URL: [https://github.com/firstcontributions/first-contributions/issues/62077](https://github.com/firstcontributions/first-contributions/issues/62077)
+- How I can contribute: I can translate the content into Sinhala, the native language of Sri Lanka, for the cli-tool-tutorials.
+  
+Discussion: 
+- There were discussions among community members, notably about the Urdu and French translations.
+
+**Activist**
+
+Issue: Documentation for JetBrains IDEs
+- URL: [https://github.com/activist-org/activist/issues/545](https://github.com/activist-org/activist/issues/545)
+- How I can contribute: I can write documentation for setting up JetBrains IDEs, adding information to the readme and contributing guide.
+
+Discussion: 
+- Minimal discussions among community members, mainly a query about the presence of VS Code setup suggestions in the guide.
+- Two tasks have been completed for this issue since it was opened on November 17th, 2023.
+
+**Teammates**
+
+Issue: Data Migration: Update Developer Docs #12787
+- URL: [https://github.com/TEAMMATES/teammates/issues/12787](https://github.com/TEAMMATES/teammates/issues/12787)
+- How I can contribute: I can edit the developer documentation to include information about the presence of the SQL database and future plans for twin-db architecture.
+
+Discussion: 
+- No discussions among community members as this is a recent issue opened on February 23, 2024.
 
 ### WRITE A SUMMARY ON SLACK
+I added a summary on slack on 21st of March 2023 as:
 
+"Hey everyone, I wanted to bring your attention to an issue in the First Contributions project on GitHub. The issue is about adding translations for cli-tool-tutorials.
+
+**Issue:** [Add translations for cli-tool-tutorials](https://github.com/firstcontributions/first-contributions/issues/62077)
+
+**Project/Repository:** [First Contributions](https://github.com/firstcontributions/first-contributions) is a beginner-friendly project aimed at helping new developers make their first contribution to open source.
+
+**Contribution Opportunity:** I'm considering contributing by translating the content into Sinhala, the native language of Sri Lanka. This would make the project more accessible to Sinhala-speaking developers and encourage their participation in open source."
 
 
 ## Day 8 - 09th March 2024
