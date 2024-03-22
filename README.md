@@ -119,11 +119,45 @@ Upon reading the "How to Contribute to Open Source" guide, I gained a clear unde
 
 ### FIND POTENTIAL PROJECTS TO CONTRIBUTE TO
 
+- Task 1
 
+    I visited three websites, Good First Issue, Up for Grabs, and CodeTriage, and conducted searches specifically for projects based on JavaScript. Utilizing filtering options such as language and labels such as documentation, good first issue, and help wanted proved instrumental in identifying the most suitable projects to focus on for this assignment. As a result of these searches, I discovered numerous projects aligned with my interests and areas where I aim to contribute.
+
+- Task 2
+
+    Below is the list of three projects/repositories that I am interested in contributing to:
+
+    01. One repository that has captured my attention the most is [First Contributions](https://github.com/firstcontributions/first-contributions/). It is specifically designed to assist beginners in making their first contributions to open-source projects.  This repository is highly active, boasting over 5000 contributors and offering many language translations. Currently, there are about 16 active issues and 465 pull requests.
+
+        ![Checklist completed for First Contribution](C:\Users\user\Desktop\DGL 103\rrj-nazrinzuwair\First Contribution.png)
+
+    02. Another project that has piqued my interest is [Activist](https://github.com/activist-org/). This repository is dedicated to learning proven and innovative strategies for social and ecological change from one another. It is a valuable resource for those passionate about making a difference.
+
+        Activist is not only a good repository but also a very active one, boasting a community of 93 contributors. Currently, there are 8 pull requests awaiting review. This project encompasses various aspects such as coding, design, and offers support for multiple programming languages including JavaScript, Python, Django, TypeScript, and more.
+
+        ![Checklist completed for activitist](C:\Users\user\Desktop\DGL 103\rrj-nazrinzuwair\Actvitist.png)
+
+    03. The third project that catches my attention is [Teammates](https://github.com/TEAMMATES/teammates/), a valuable resource for managing peer evaluations and other feedback channels for students. This repository hosts the Teammates website, a free online tool designed for this purpose.
+
+        Teammates is not only an impressive resource but also an active one, boasting a community of 639 contributors. Currently, it has 91 open issues and 28 pull requests awaiting review. With its active community and focus on enhancing student feedback mechanisms, I believe it's an excellent platform for contributing my skills.
+
+        ![Checklist completed for Teammates](C:\Users\user\Desktop\DGL 103\rrj-nazrinzuwair\Teammates.png)
 
 ### EXPLORE COMMUNITY CONNECTIONS
 
+First, I delved into the community connections of [Teammates](https://github.com/TEAMMATES/teammates/) and discovered that they do not utilize messaging platforms or other typical environments for community engagement. Instead, they encourage users to post messages directly into their [issue tracker](https://github.com/TEAMMATES/teammates/issues/new).
 
+Next, I explored [Activist](https://github.com/activist-org/) and found that they offer a dedicated Community space for individuals involved with and utilizing activist.org. This space comprises four distinct rooms and areas:
+
+1. **LocalizationSuggested**: Discussion area focusing on activist's copy and its localization, accessible at https://crowdin.com/project/activist.
+   
+2. **GeneralSuggested**: The primary room for the activist.org community to engage in diverse discussions, share ideas, and exchange news.
+   
+3. **DevelopmentSuggested**: Platform for discussions centered around the development of activist, located at https://github.com/activist-org/activist.
+   
+4. **Inspiration**: Repository of links to resources that could serve as inspiration for the design or development of activist.
+
+Lastly, I investigated [First Contributions](https://github.com/firstcontributions/first-contributions/) and noted that they provide a link to join their Slack team for assistance or inquiries via https://firstcontributors.slack.com/join/shared_invite/zt-29qhyr9lt-Bi7WLbgGIFqV7aCEG_grvg#/shared-invite/error. However, it seems that the provided link is currently inaccessible or broken.
 
 ## Day 7 - 08th March 2024
 
