@@ -210,14 +210,16 @@ I added a summary on slack on 21st of March 2023 as:
 
 01. What is the most surprising thing that you’ve learned about open source development and/or open source communities during your research this week?
 
-
+During my research this week, I was surprised to discover various avenues through which I can contribute to open-source projects. Additionally, I gained insights into how open-source communities collaboratively engage in open discussions to address and resolve issues. This research also dispelled a common misconception I had about contributing to open-source projects, as I initially believed it was solely focused on coding. However, I now understand there are other effective ways to contribute.
 
 02. What types of open source projects do you find yourself most drawn to? Is there an obvious connection between them?
 
+I find myself most drawn to web development-related projects, particularly those involving front-end coding and user interface design. This preference aligns with my interests and skills. Moreover, I've noticed a many open repositories based on JavaScript, which further reinforces my attraction to such projects.
 
 
 03. Is the programming language that you chose last week still the right choice? Should you consider alternatives?
 
+Reflecting on my choice of programming language from last week, I still believe that selecting JavaScript was the right decision. It has provided me with ample opportunities to enhance my knowledge and skills. Therefore, I see no reason to consider alternatives at this time.
 
 
 ## References
