@@ -1,0 +1,1 @@
+<!-- NOTE: If you haven’t already done so, please create a CONTRIBUTING.md document in your Research & Reflection Journal and summarize what you have learned about contributing to your external community. -->

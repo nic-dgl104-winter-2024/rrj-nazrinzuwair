@@ -204,9 +204,9 @@ Discussion:
 - No discussions among community members as this is a recent issue opened on February 23, 2024.
 
 ### WRITE A SUMMARY ON SLACK
-I added a summary on slack on 21st of March 2023 as:
+I added a summary on slack on 21st of March 2023 for one of the issues I identified in the “Identify Issues to Support” activity as follows:
 
-"Hey everyone, I wanted to bring your attention to an issue in the First Contributions project on GitHub. The issue is about adding translations for cli-tool-tutorials.
+**"Hey everyone, I wanted to bring your attention to an issue in the First Contributions project on GitHub. The issue is about adding translations for cli-tool-tutorials.**
 
 **Issue:** [Add translations for cli-tool-tutorials](https://github.com/firstcontributions/first-contributions/issues/62077)
 
@@ -264,7 +264,17 @@ Their [CODE-OF-CONDUCT.md](https://github.com/firstcontributions/first-contribut
 
 Thus, the guidelines provided are very easy to understand and follow, making the contribution process accessible to all individuals interested in participating.
 
+## Day 10 - 25th March 2024
+
 ### WRITE A SUMMARY ON SLACK
+
+I added a summary on slack on 25th of March 2023 on what you have learned about the community I chosen in terms of contributing as:
+
+**"I've been exploring the [First Contributions](https://github.com/firstcontributions/first-contributions/tree/main) repository for open-source community contributions. The community is dedicated to simplifying and guiding beginners through their first contributions.**
+
+**They provide clear, step-by-step instructions with accompanying images for forking the repository, cloning it, creating branches, making changes, pushing them, and submitting for review. Additionally, they offer a link to an external GitHub repository for setting up Git on a local machine, which you can find [here](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git).**
+
+**Moreover, the [CODE-OF-CONDUCT.md](https://github.com/firstcontributions/first-contributions/blob/main/CODE_OF_CONDUCT.md) emphasizes values of respect, empathy, and professionalism, while prohibiting harassment or discrimination. They encourage community members to adhere to this code, fostering a safe and welcoming environment for collaboration and mutual respect among all participants."**
 
 ### CONTRIBUTE TO EXTERNAL COMMUNITY
 
