@@ -228,6 +228,19 @@ Reflecting on my choice of programming language from last week, I still believe 
 
 ### COMMUNITY CODE PROCESSES
 
+Today, I spent time watching videos to understand the process of forking repositories, creating branches, finding issues, and opening pull requests for contributing to open-source projects. It helped me properly grasp the idea of creating branches and committing changes to them without impacting the main files. Some of the main tasks I performed while watching are:
+
+1. I watched the **“DGL 104 - Community Code Part 2 - Fork and clone”** tutorial and followed the steps to:
+
+   - Fork the pattern-library repo into my GitHub account
+   - Cloned the repository onto my GitHub desktop for further exploration
+
+2. I also watched the **“DGL 104 - Community Code Part 2 - Finding issues”** tutorial and completed the following steps:
+
+   - Checked for ways to identify issues and commit based on different labels, using project backlogs
+   - Changed the watch status to "All Activity" to ensure all notification updates on issues are received in my email for keeping me informed and on track
+
+3. Furthermore, I watched the tutorials for **"DGL 104 - Community Code Part 2 - Opening a PR"** and **"DGL 104 - Community Code Part 2 - Closing issues"**. Through these tutorials, I gained a clear understanding of the procedures involved in both opening and closing a pull request
 
 ### ASSESS EXTERNAL COMMUNITY CONTRIBUTION GUIDELINES
 
