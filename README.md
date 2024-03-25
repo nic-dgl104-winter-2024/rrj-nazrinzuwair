@@ -222,6 +222,28 @@ I find myself most drawn to web development-related projects, particularly those
 Reflecting on my choice of programming language from last week, I still believe that selecting JavaScript was the right decision. It has provided me with ample opportunities to enhance my knowledge and skills. Therefore, I see no reason to consider alternatives at this time.
 
 
+# Week 10 - Research and Reflection Journal
+
+## Day 9 - 22nd March 2024
+
+### COMMUNITY CODE PROCESSES
+
+
+### ASSESS EXTERNAL COMMUNITY CONTRIBUTION GUIDELINES
+
+
+### WRITE A SUMMARY ON SLACK
+
+### CONTRIBUTE TO EXTERNAL COMMUNITY
+
+
+### CONTRIBUTE TO PATTERN-LIBRARY
+
+
+### FOLLOW-UP QUESTIONS AND REFLECTIONS
+
+01. What is the hardest/most challenging thing you had to do this week for DGL 104? How did you overcome this challenge?
+
 ## References
 
 Academy, C. (n.d.). Learn Lua. Retrieved from Codecademy: https://www.codecademy.com/learn/learn-lua
