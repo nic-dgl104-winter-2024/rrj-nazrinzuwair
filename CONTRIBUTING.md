@@ -17,6 +17,12 @@ The issue I examined was [issue 62077](https://github.com/firstcontributions/fir
 
 ### Approach To Solving The Issue
 
+To address this issue, I will focus on the language used by Sri Lankans, which is Sinhala. The reason for choosing this language is that it is my native language, and I am proficient in it. The steps that I will follow in addressing the issue are as follows:
+
+   1. First, I will carefully review the content of the cli-tool-tutorials, ensuring a thorough understanding of the intended message.
+   2. Next, I will proceed to translate the content into Sinhala.
+   3. Finally, I will meticulously proofread the text to eliminate any grammatical errors and ensure clarity and accuracy.
+
 
 ### Project Documentation and Value Summary
 
