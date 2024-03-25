@@ -12,6 +12,7 @@ The project is noteworthy for its enormous translation effort, since the README.
 
 ### Summary of Identified Issues:
 
+The issue I examined was [issue 62077](https://github.com/firstcontributions/first-contributions/issues/62077), which involves adding translations for the cli-tool-tutorials. While the README.md file has been translated into 76 languages, the cli-tool-tutorials, serving as a crucial guide for first-time contributors navigating the terminal, currently lacks translations in languages beyond Spanish, Hindi, Urdu, and French. Despite the issue being opened on December 25, 2022, with its last commit made on July 25, 2023, there has been limited active contribution from contributors in making translations available.
 
 
 ### Approach To Solving The Issue
