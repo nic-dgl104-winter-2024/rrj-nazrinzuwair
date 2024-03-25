@@ -256,6 +256,13 @@ Today, I spent time watching videos to understand the process of forking reposit
 
 ### ASSESS EXTERNAL COMMUNITY CONTRIBUTION GUIDELINES
 
+The [first-contributions](https://github.com/firstcontributions/first-contributions/tree/main) repository encourages beginners to make their first contribution and provides step-by-step instructions for making contributions. They offer guidance on forking, cloning, creating branches, making changes, pushing changes, and submitting them for review, all easily understandable with accompanying images. 
+
+Additionally, they provide a link to set up Git on contributors' local machines, accessible via https://docs.github.com/en/get-started/getting-started-with-git/set-up-git. 
+
+Their [CODE-OF-CONDUCT.md](https://github.com/firstcontributions/first-contributions/blob/main/CODE_OF_CONDUCT.md) serves as a vital document, offering clear guidelines to ensure a supportive and inclusive atmosphere within the community. It emphasizes values of respect, empathy, and professionalism, encouraging constructive interactions while prohibiting any form of harassment or discrimination. This code underscores the commitment of community members to maintain a safe and welcoming environment for all participants, fostering collaboration and mutual respect.
+
+Thus, the guidelines provided are very easy to understand and follow, making the contribution process accessible to all individuals interested in participating.
 
 ### WRITE A SUMMARY ON SLACK
 
