@@ -1,4 +1,16 @@
-# Week 8 - Research and Reflection Journal
+# RESEARCH AND REFLECTION JOURNAL
+
+## Weekly Activities and Key Insights
+
+- [Week 8](#week-8)
+- [Week 9](#week-9)
+- [Week 10](#week-10)
+- [Week 11](#week-11)
+- [Week 12](#week-12)
+
+
+
+## Week 8 <a name="week-8"></a> - Research and Reflection Journal 
 
 ## Day 1 - 26th February 2024
 
@@ -77,7 +89,7 @@ While exploring my GitHub explorer tab, I noticed some repositories that caught 
     - Examining repositories on GitHub proved to be incredibly valuable. I was particularly fascinated by the diverse techniques and programming styles employed by different contributors. It was surprising to see how contributors collaboratively work on a single repository, demonstrating the value of teamwork in producing high-quality outputs. Moreover, I observed similarities across some of the repositories, such as the use of modular code structures, comprehensive documentation, and active community engagement. 
 
 
-# Week 9 - Research and Reflection Journal
+## Week 9 <a name="week-9"></a> - Research and Reflection Journal
 
 ## Day 5 - 05th March 2024
 
@@ -222,7 +234,7 @@ I find myself most drawn to web development-related projects, particularly those
 Reflecting on my choice of programming language from last week, I still believe that selecting JavaScript was the right decision. It has provided me with ample opportunities to enhance my knowledge and skills. Therefore, I see no reason to consider alternatives at this time.
 
 
-# Week 10 - Research and Reflection Journal
+## Week 10 <a name="week-10"></a> - Research and Reflection Journal
 
 ## Day 9 - 22nd March 2024
 
