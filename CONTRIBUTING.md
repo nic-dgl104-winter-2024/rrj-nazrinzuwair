@@ -24,6 +24,10 @@ To address this issue, I will focus on the language used by Sri Lankans, which i
    3. Finally, I will meticulously proofread the text to eliminate any grammatical errors and ensure clarity and accuracy.
 
 
+### My Fork of the First Contributions Project
+
+Explore my forked version of the Cli-Tool-Tutorial Sinhala translation [here](https://github.com/nazrinzuwair/first-contributions/tree/cli-tool-tutorial-sinhala-translation). I've taken the initiative to translate the content into Sinhala, aiming to make it more accessible to a broader audience.
+
 ### Project Documentation and Value Summary
 
 
