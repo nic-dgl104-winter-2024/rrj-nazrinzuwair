@@ -9,6 +9,10 @@ The [First Contributions](https://github.com/firstcontributions/first-contributi
 
 The project is noteworthy for its enormous translation effort, since the README.md has been translated into 76 different languages. Through the use of many languages, the project is made more inclusive and accessible, allowing people from a variety of linguistic backgrounds to participate and contribute for the first time.
 
+### My Fork of the First Contributions Project
+
+Explore my forked version of the Cli-Tool-Tutorial Sinhala translation [here](https://github.com/nazrinzuwair/first-contributions/tree/cli-tool-tutorial-sinhala-translation). I've taken the initiative to translate the content into Sinhala, aiming to make it more accessible to a broader audience.
+
 
 ### Summary of the Identified Issue:
 
@@ -24,12 +28,21 @@ To address this issue, I will focus on the language used by Sri Lankans, which i
    3. Finally, I will meticulously proofread the text to eliminate any grammatical errors and ensure clarity and accuracy.
 
 
-### My Fork of the First Contributions Project
-
-Explore my forked version of the Cli-Tool-Tutorial Sinhala translation [here](https://github.com/nazrinzuwair/first-contributions/tree/cli-tool-tutorial-sinhala-translation). I've taken the initiative to translate the content into Sinhala, aiming to make it more accessible to a broader audience.
-
 ### Summary Of Peer Code Review
 
+The translation of the GitHub CLI tutorial underwent a thorough review by [Tharnindu Mudduwe Jayasekara](https://github.com/tharinduj31). Here's a summary of the feedback provided:
+
+1. Grammar and Clarity Improvement:
+   - Some letters in Sinhala were noted to overlap with English words, potentially causing confusion. Tharnindu suggested that if fixing these overlaps in Sinhala proves difficult, it might be better to stick with the English term. For instance, he highlighted the phrase "Terminal nerds" as an example.
+
+2. Specific Revisions:
+  - Requested changes to the following terms:
+      -  Line 18: Changed කිසිදු චිත්‍රක to *කිසිදු විටෙක.
+      -  Line 18: Changed අභියෝගාත්මක ය to අභියෝගාත්මකය.
+      -  Line 95: Modified the heading from ## මෙතනින් කොහෙට යන්නද? to *කොහෙටද යන්නෙ?.
+      -  Line 105: Updated the heading from ### [අතිරේක ද්‍රව්‍ය] to *අතිරේක මූලාශ්‍ර.
+
+The result of the code review can be found [here](https://github.com/firstcontributions/first-contributions/pull/82798).
 
 ### Translation Challenges and Strategy used
 
