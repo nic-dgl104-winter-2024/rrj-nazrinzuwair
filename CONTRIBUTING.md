@@ -1,4 +1,4 @@
-# Open Source Community Contribution
+# PART 1 - OPEN SOURCE COMMUNITY CONTRIBUTION
 
 ## Contribution for First Contributions 
 
@@ -37,10 +37,10 @@ The translation of the GitHub CLI tutorial underwent a thorough review by [Tharn
 
 2. Specific Revisions:
   - Requested changes to the following terms:
-      -  Line 18: Changed කිසිදු චිත්‍රක to *කිසිදු විටෙක.
-      -  Line 18: Changed අභියෝගාත්මක ය to අභියෝගාත්මකය.
-      -  Line 95: Modified the heading from ## මෙතනින් කොහෙට යන්නද? to *කොහෙටද යන්නෙ?.
-      -  Line 105: Updated the heading from ### [අතිරේක ද්‍රව්‍ය] to *අතිරේක මූලාශ්‍ර.
+      -  Line 18: Changed `කිසිදු චිත්‍රක` to `*කිසිදු විටෙක`.
+      -  Line 18: Changed `අභියෝගාත්මක ය` to `අභියෝගාත්මකය`.
+      -  Line 95: Modified the heading from `## මෙතනින් කොහෙට යන්නද?` to `*කොහෙටද යන්නෙ?`.
+      -  Line 105: Updated the heading from `### [අතිරේක ද්‍රව්‍ය]` to `*අතිරේක මූලාශ්‍ර`.
 
 The result of the code review can be found [here](https://github.com/firstcontributions/first-contributions/pull/82798).
 
@@ -57,3 +57,12 @@ In conclusion, while the translation process presented hurdles, collaboration wi
 ## Discussion of next steps
 
 The next step involves proofreading the translated document thoroughly. This ensures that any remaining errors or inconsistencies are identified and corrected, guaranteeing the final translation is polished and accurate. Additionally, seeking feedback from peers or reviewers can provide valuable insights to further refine the document. Once the proofreading process is complete, the final version can be confidently shared with the target audience, contributing to the success and impact of the project.
+
+
+# Reference
+First Contributions. (n.d.). first-contributions. Retrieved from https://github.com/firstcontributions/first-contributions
+
+# PART 2 - CONTRIBUTION TO DGL 104 PATTERN LIBRARY REPOSITORY
+
+## Reflection
+
