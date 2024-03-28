@@ -60,9 +60,11 @@ The next step involves proofreading the translated document thoroughly. This ens
 
 
 # Reference
-First Contributions. (n.d.). first-contributions. Retrieved from https://github.com/firstcontributions/first-contributions
+First Contribution   s. (n.d.). first-contributions. Retrieved from https://github.com/firstcontributions/first-contributions
 
 # PART 2 - CONTRIBUTION TO DGL 104 PATTERN LIBRARY REPOSITORY
+
+
 
 ## Reflection
 

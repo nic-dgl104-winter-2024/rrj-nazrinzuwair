@@ -278,9 +278,20 @@ I added a summary on slack on 25th of March 2023 on what you have learned about 
 
 ### CONTRIBUTE TO EXTERNAL COMMUNITY
 
-Please refer to the CONTRIBUTING.md file for a detailed description of this activity.
+Please refer to the [CONTRIBUTING.md](https://github.com/nic-dgl104-winter-2024/rrj-nazrinzuwair/blob/main/CONTRIBUTING.md) file for a detailed description of this activity.
+
+# Day 11 - 22nd March 2024
 
 ### CONTRIBUTE TO PATTERN-LIBRARY
+
+I forked the pattern-library repository into my personal GitHub account, which is accessible via [pattern-library](https://github.com/nazrinzuwair/pattern-library/tree/main). Then, I reviewed issues that piqued my interest and were aligned with my expertise in JavaScript programming language. Subsequently, I requested to be assigned to these issues by commenting on the respective threads. The issues I focused on are:
+
+1. [Identify a potential short list of additional design patterns #26](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/26)
+2. [Research a preferred licensing scheme for this repository #19](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/19)
+3. [Add JavaScript implementation of Template pattern #57](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/57)
+4. [Propose a new filename scheme for all pattern files #45](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/45)
+
+Among these, I was assigned to work on issues #26, #19, and #45.
 
 
 ### FOLLOW-UP QUESTIONS AND REFLECTIONS
