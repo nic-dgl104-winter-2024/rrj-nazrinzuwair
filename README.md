@@ -278,6 +278,7 @@ I added a summary on slack on 25th of March 2023 on what you have learned about 
 
 ### CONTRIBUTE TO EXTERNAL COMMUNITY
 
+Please refer to the CONTRIBUTING.md file for a detailed description of this activity.
 
 ### CONTRIBUTE TO PATTERN-LIBRARY
 
