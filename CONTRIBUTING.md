@@ -44,11 +44,16 @@ The translation of the GitHub CLI tutorial underwent a thorough review by [Tharn
 
 The result of the code review can be found [here](https://github.com/firstcontributions/first-contributions/pull/82798).
 
-### Translation Challenges and Strategy used
 
-The translation process posed significant challenges, particularly when encountering technical terms that proved complex to translate into Sinhala. Consequently, I opted to retain certain terms in their original form. This decision was motivated by the recognition that familiarity with these terms in their English form aids readers in understanding the content and its associated processes, especially given the prevalence of English terminology within GitHub's interface and documentation.
+### Reflection on Success
+
+The translation process presented considerable challenges, particularly when encountering technical terms that were complex to render accurately in Sinhala. As a result, I made the decision to maintain certain terms in their original English form. This choice stemmed from the realization that readers are often more familiar with these terms in English, given their prevalence within GitHub's interface and documentation. Retaining these terms in English helps ensure better comprehension of the content and its associated processes.
+
+Despite these challenges, the review conducted by Tharindu proved immensely valuable in navigating these obstacles. His insights and suggestions provided guidance on how to address the linguistic nuances and maintain clarity in the translated text. One notable suggestion was to retain English words that overlapped with Sinhala equivalents, thereby enhancing clarity and ensuring the intended message was conveyed effectively to the user.
+
+In conclusion, while the translation process presented hurdles, collaboration with Tharindu and the acceptance of his feedback facilitated overcoming these challenges. This collaborative effort ultimately led to an improved translation that effectively serves its purpose in conveying information to the target audience.
 
 
-## Reflection
+## Discussion of next steps
 
-Contributing to an open-source project through translation has been an enlightening experience. It has not only deepened my understanding of the essential criteria for contribution but has also provided valuable insights into accessing crucial project information. Through this process, I have gained proficiency in fundamental tasks like forking, cloning, creating branches, and submitting changes for review. This journey has not only expanded my technical skills but has also instilled in me a greater appreciation for the collaborative nature of open-source communities and the importance of clear project documentation.
+The next step involves proofreading the translated document thoroughly. This ensures that any remaining errors or inconsistencies are identified and corrected, guaranteeing the final translation is polished and accurate. Additionally, seeking feedback from peers or reviewers can provide valuable insights to further refine the document. Once the proofreading process is complete, the final version can be confidently shared with the target audience, contributing to the success and impact of the project.
