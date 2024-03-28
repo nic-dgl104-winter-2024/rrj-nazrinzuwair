@@ -280,7 +280,7 @@ I added a summary on slack on 25th of March 2023 on what you have learned about 
 
 Please refer to the [CONTRIBUTING.md](https://github.com/nic-dgl104-winter-2024/rrj-nazrinzuwair/blob/main/CONTRIBUTING.md) file for a detailed description of this activity.
 
-# Day 11 - 22nd March 2024
+## Day 11 - 22nd March 2024
 
 ### CONTRIBUTE TO PATTERN-LIBRARY
 
@@ -297,6 +297,8 @@ Among these, I was assigned to work on issues #26, #19, and #45.
 ### FOLLOW-UP QUESTIONS AND REFLECTIONS
 
 01. What is the hardest/most challenging thing you had to do this week for DGL 104? How did you overcome this challenge?
+
+The most challenging task I encountered this week for DGL 104 was allocating time for both Part 1 and Part 2 of the community code project, along with writing reflections in the journal. I followed a method of working on both simultaneously, which led me to fall a bit behind schedule. To overcome this challenge, I adopted a different approach. I prioritized addressing the issues in the pattern-library project and requested assignment to them. I learnt that by focusing on tasks with closer deadlines, I could better manage my time and ensure timely completion of essential project components.
 
 ## References
 
