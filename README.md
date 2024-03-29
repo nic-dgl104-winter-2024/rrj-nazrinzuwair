@@ -306,6 +306,8 @@ The most challenging task I encountered this week for DGL 104 was allocating tim
 
 ### CONNECT WITH YOUR EXTERNAL COMMUNITY
 
+In my endeavor to join First Contributions external community channels, I discovered that they utilize Slack as their primary community channel, with encouragement for all contributors to join. However, upon attempting to access the provided link (https://firstcontributors.slack.com/join/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w#/shared-invite/error), it appears to be broken, thus hindering my ability to connect.
+
 
 ## References
 
