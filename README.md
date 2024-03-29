@@ -300,6 +300,13 @@ Among these, I was assigned to work on issues #26, #19, and #45.
 
 The most challenging task I encountered this week for DGL 104 was allocating time for both Part 1 and Part 2 of the community code project, along with writing reflections in the journal. I followed a method of working on both simultaneously, which led me to fall a bit behind schedule. To overcome this challenge, I adopted a different approach. I prioritized addressing the issues in the pattern-library project and requested assignment to them. I learnt that by focusing on tasks with closer deadlines, I could better manage my time and ensure timely completion of essential project components.
 
+# WEEK 11
+
+## Day 12 - 28th March 2024
+
+### CONNECT WITH YOUR EXTERNAL COMMUNITY
+
+
 ## References
 
 Academy, C. (n.d.). Learn Lua. Retrieved from Codecademy: https://www.codecademy.com/learn/learn-lua

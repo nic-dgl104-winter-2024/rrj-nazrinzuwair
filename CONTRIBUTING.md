@@ -18,6 +18,7 @@ Explore my forked version of the Cli-Tool-Tutorial Sinhala translation [here](ht
 
 The issue I examined was [issue 62077](https://github.com/firstcontributions/first-contributions/issues/62077), which involves adding translations for the cli-tool-tutorials. While the README.md file has been translated into 76 languages, the cli-tool-tutorials, serving as a crucial guide for first-time contributors navigating the terminal, currently lacks translations in languages beyond Spanish, Hindi, Urdu, and French. Despite the issue being opened on December 25, 2022, with its last commit made on July 25, 2023, there has been limited active contribution from contributors in making translations available.
 
+![Issue 62077](image-1.png)
 
 ### Approach To Solving The Issue
 
@@ -43,6 +44,11 @@ The translation of the GitHub CLI tutorial underwent a thorough review by [Tharn
       -  Line 105: Updated the heading from `### [අතිරේක ද්‍රව්‍ය]` to `*අතිරේක මූලාශ්‍ර`.
 
 The result of the code review can be found [here](https://github.com/firstcontributions/first-contributions/pull/82798).
+
+
+
+
+
 
 
 ### Reflection on Success
