@@ -388,6 +388,26 @@ Maria, M. (2023, December 20). Programming Paradigms in JavaScript. Retrieved fr
 Yusuf, A.-a. (2020, October 25). Paradigms In JavaScript. Retrieved from Dev: https://dev.to/alamin__yusuf/paradigms-in-javascript-1m31
 
 
+# WEEK 12
+
+## Day 15
+
+### CONTINUE CONTRIBUTIONS TO EXTERNAL COMMUNITY
+
+   - I received feedback from the peer review conducted by [Tharnindu Mudduwe Jayasekara](https://github.com/tharinduj31) on the translations. The comments can be accessed via [this link](https://github.com/firstcontributions/first-contributions/pull/82798#discussion_r1538744600).
+
+   - After incorporating the suggested changes, I requested Tharnindu Mudduwe Jayasekara to perform another review on the translation by commenting on the repository [here](https://github.com/firstcontributions/first-contributions/pull/82798#issuecomment-2022050933).
+
+   - Since all feedback on my translation was positive, I added my name to the contributions.md list."
+
+![alt text](image-2.png)
+
+
+### CONTINUE CONTRIBUTIONS TO PATTERN-LIBRARY
+
+1. Instigating Slack Discussion: Soliciting Feedback on Selected Licensing Scheme
+
+   - As [issue 19]((https://github.com/nic-dgl104-winter-2024/pattern-library/issues/19) ) was assigned to me, I then sent a [Slack message](https://digitaldesign-f2i3028.slack.com/archives/C06E2HSCFEY/p1711345646556449) to discuss the licensing scheme I selected for this repository, aiming to gather insights and feedback from others.
 
 ## References
 
