@@ -432,6 +432,19 @@ Yusuf, A.-a. (2020, October 25). Paradigms In JavaScript. Retrieved from Dev: ht
    - Corrected grammatical errors, such as changing "youngers" to "youngsters".
    - Condensed multiple paragraphs discussing each food and its associated benefits into a single paragraph to reduce unnecessary repetition.
 
+4. [Code Review: Dev FP vs OOP #73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73)
+
+I conducted a code review on Sumit Joshi's comparison description of Functional Programming and OOP. The code review can be accessed [here](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73#issuecomment-2018568998).
+
+   **Feedback Provided:**
+   - I suggested adding a couple more sections to the OOP Design Patterns and Functional Patterns as the content appeared to be limited.
+   - Additionally, I recommended including a coding example of the Singleton within the overview itself, rather than redirecting to a link.
+   - Given the focus on JavaScript programming language, I suggested providing information on how JavaScript is used in OOP Design Patterns and Functional Patterns.
+   - I also advised presenting the comparisons within a table-like structure for clarity.
+
+   **Review After Revisions:**
+   - After Sumit Joshi made revisions based on the feedback provided, I rechecked the code and descriptions. Everything appeared to be in good order, so I provided another feedback comment, accessible [here](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73#issuecomment-2018772399).   
+
 ## References
 
 Academy, C. (n.d.). Learn Lua. Retrieved from Codecademy: https://www.codecademy.com/learn/learn-lua
