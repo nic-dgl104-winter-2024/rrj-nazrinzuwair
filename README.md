@@ -284,15 +284,12 @@ Please refer to the [CONTRIBUTING.md](https://github.com/nic-dgl104-winter-2024/
 
 ### CONTRIBUTE TO PATTERN-LIBRARY
 
-I forked the pattern-library repository into my personal GitHub account, which is accessible via [pattern-library](https://github.com/nazrinzuwair/pattern-library/tree/main). Then, I reviewed issues that piqued my interest and were aligned with my expertise in JavaScript programming language. Subsequently, I requested to be assigned to these issues by commenting on the respective threads. The issues I focused on are:
+Today, I began my contribution to the Pattern Library repository by forking it into my personal GitHub account, accessible via [pattern-library](https://github.com/nazrinzuwair/pattern-library/tree/main). Then, I reviewed issues that piqued my interest and were aligned with my expertise in JavaScript programming language. Subsequently, I requested to be assigned to these issues by commenting on the respective threads. The issues I focused on are:
 
 1. [Identify a potential short list of additional design patterns #26](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/26)
 2. [Research a preferred licensing scheme for this repository #19](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/19)
-3. [Add JavaScript implementation of Template pattern #57](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/57)
-4. [Propose a new filename scheme for all pattern files #45](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/45)
 
-Among these, I was assigned to work on issues [#26](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/26), [#19](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/19), and [#45](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/45).
-
+After careful consideration, I eagerly awaited assignment to these issues to begin my contribution journey.
 
 ### FOLLOW-UP QUESTIONS AND REFLECTIONS
 
@@ -312,6 +309,32 @@ In my endeavor to join First Contributions external community channels, I discov
 ## Day 13: 23rd March 2024
 
 ### READ THROUGH PATTERN LIBRARY ISSUES
+
+Today, I initiated my contribution to the Pattern Library repository by searching for potential tasks to undertake. After careful consideration, I found two issues that aligned well with my skills and interests:
+
+1. Add JavaScript implementation of Template pattern #57
+2. Propose a new filename scheme for all pattern files #45
+
+**Issue Assignment**
+
+I promptly requested to be assigned to these issues by commenting on the respective threads. Unfortunately, my request for issue #57 was rejected as the assignees were deemed sufficient for the task. However, I was successfully assigned to work on issue #45.
+
+
+## Day 14
+
+### CONTINUE CONTRIBUTIONS TO EXTERNAL COMMUNITY
+
+Contribution to [First Contributions](https://github.com/firstcontributions/first-contributions):
+
+   - I began by thoroughly reviewing the [code of conduct](https://github.com/firstcontributions/first-contributions/blob/main/CODE_OF_CONDUCT.md), [License](https://github.com/firstcontributions/first-contributions/blob/main/LICENSE), and [README.md](https://github.com/firstcontributions/first-contributions/blob/main/README.md) to gain an understanding of the repository and the required steps for contributors before engaging in commits.
+
+   - After familiarizing myself with the repository, I explored the list of issues under the issues tab and decided to address [issue 62077](https://github.com/firstcontributions/first-contributions/issues/62077), which entails adding translations for the cli-tool-tutorials.
+
+   - To commence work on the translation, I created a forked version of the repository named [Cli-Tool-Tutorial Sinhala translation](https://github.com/nazrinzuwair/first-contributions/tree/cli-tool-tutorial-sinhala-translation).
+
+   - Subsequently, I embarked on translating the cli-tool-tutorial and sought assistance from [Tharnindu Mudduwe Jayasekara](https://github.com/tharinduj31), the only individual in the class proficient in Sinhala, to perform a review of the translation.
+
+### CONTRIBUTE TO PATTERN-LIBRARY
 The list of actions I took in related to pattern-library are:
 
 1. License Selection: Evaluating Options for Repository
@@ -342,6 +365,9 @@ The list of actions I took in related to pattern-library are:
 
    - I proceeded by creating separate folders for both the [Factory design pattern](https://github.com/nazrinzuwair/pattern-library/tree/nazrin-zuwair/additional-design-patterns/patterns/Factory-Design-Patten) and [Facade design pattern](https://github.com/nazrinzuwair/pattern-library/tree/nazrin-zuwair/additional-design-patterns/patterns/Facade-Pattern) within the PATTERN-LIBRARY directory. Each folder contained a README.md file and corresponding JavaScript implementation files, namely [factory-method.js](https://github.com/nazrinzuwair/pattern-library/blob/nazrin-zuwair/additional-design-patterns/patterns/Factory-Design-Patten/factory-method.js) for the Factory design pattern and [facade-method.js](https://github.com/nazrinzuwair/pattern-library/blob/nazrin-zuwair/additional-design-patterns/patterns/Facade-Pattern/facade-pattern.js) for the Facade design pattern.
    - Furthermore, I expanded on the READMEs by mentioning alternative programming languages where these design patterns could be applied, along with hyperlinks directing users to relevant resources for further exploration.
+
+
+
 
 ## References
 
