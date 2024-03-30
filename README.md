@@ -328,6 +328,20 @@ The list of actions I took in related to pattern-library are:
 
    - I noticed that his README.md file primarily mentions the Factory Method design pattern instead of the Abstract Factory Method, despite working on the latter. I commented on his repository, requesting him to make amendments to it [here](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/26#issuecomment-2016903366).
 
+![alt text](image.png)
+
+3. Contributions to Design Pattern Library: Factory and Facade Design Patterns Implementation
+
+   - I started to work on [Identify a potential short list of additional design patterns #26](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/26).
+
+   - Firstly, I conducted thorough research on design patterns using JavaScript. I mainly browsed [doFactory](https://www.dofactory.com/javascript/design-patterns), [GeeksforGeeks](https://www.geeksforgeeks.org/javascript-design-patterns/), and [Refactoring Guru](https://refactoring.guru/design-patterns).
+
+   - Then, I selected the Factory design pattern and Facade design pattern to work on.
+
+   - I created the [Factory Design Pattern and Facade Design Pattern #77](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/77):
+
+   - I proceeded by creating separate folders for both the [Factory design pattern](https://github.com/nazrinzuwair/pattern-library/tree/nazrin-zuwair/additional-design-patterns/patterns/Factory-Design-Patten) and [Facade design pattern](https://github.com/nazrinzuwair/pattern-library/tree/nazrin-zuwair/additional-design-patterns/patterns/Facade-Pattern) within the PATTERN-LIBRARY directory. Each folder contained a README.md file and corresponding JavaScript implementation files, namely [factory-method.js](https://github.com/nazrinzuwair/pattern-library/blob/nazrin-zuwair/additional-design-patterns/patterns/Factory-Design-Patten/factory-method.js) for the Factory design pattern and [facade-method.js](https://github.com/nazrinzuwair/pattern-library/blob/nazrin-zuwair/additional-design-patterns/patterns/Facade-Pattern/facade-pattern.js) for the Facade design pattern.
+   - Furthermore, I expanded on the READMEs by mentioning alternative programming languages where these design patterns could be applied, along with hyperlinks directing users to relevant resources for further exploration.
 
 ## References
 
