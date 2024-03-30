@@ -291,7 +291,7 @@ I forked the pattern-library repository into my personal GitHub account, which i
 3. [Add JavaScript implementation of Template pattern #57](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/57)
 4. [Propose a new filename scheme for all pattern files #45](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/45)
 
-Among these, I was assigned to work on issues #26, #19, and #45.
+Among these, I was assigned to work on issues [#26](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/26), [#19](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/19), and [#45](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/45).
 
 
 ### FOLLOW-UP QUESTIONS AND REFLECTIONS
@@ -302,11 +302,31 @@ The most challenging task I encountered this week for DGL 104 was allocating tim
 
 # WEEK 11
 
-## Day 12 - 28th March 2024
+## Day 12 - 22nd March 2024
 
 ### CONNECT WITH YOUR EXTERNAL COMMUNITY
 
 In my endeavor to join First Contributions external community channels, I discovered that they utilize Slack as their primary community channel, with encouragement for all contributors to join. However, upon attempting to access the provided link (https://firstcontributors.slack.com/join/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w#/shared-invite/error), it appears to be broken, thus hindering my ability to connect.
+
+
+## Day 13: 23rd March 2024
+
+### READ THROUGH PATTERN LIBRARY ISSUES
+The list of actions I took in related to pattern-library are:
+
+1. License Selection: Evaluating Options for Repository
+
+   - I began by working on [issue 19](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/19).
+
+   - Firstly, I examined Dhuds1's comment to understand her choice of license and conducted research to learn about its pros and cons, as it was not listed among her choices. Then, I visited multiple websites to identify the best license, considering the purpose of this repository. Among the browsed websites, I found https://choosealicense.com/ to be very useful and reliable for choosing the appropriate license.
+
+   - I discovered that the MIT License (https://choosealicense.com/licenses/mit/) and GNU General Public License (GPL) version 3 (https://choosealicense.com/licenses/gpl-3.0/) are the best choices of license. I left a comment in the repository [issue 19](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/19#issuecomment-2014618539) and requested that the issue be assigned to me, addressing Ashley.
+
+2. Code Review: Ensuring Consistency and Accuracy in the Abstract Factory Design Patterns Repository   
+
+   - Next, I performed a code review on john24alex's [Abstract Factory and design patterns folder structure](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/50). Initially, I thoroughly read the information provided in his README.md file within his  [Abstract-factory repository](https://github.com/john24alex/pattern-library/tree/main/patterns/abstract-factory).
+
+   - I noticed that his README.md file primarily mentions the Factory Method design pattern instead of the Abstract Factory Method, despite working on the latter. I commented on his repository, requesting him to make amendments to it [here](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/26#issuecomment-2016903366).
 
 
 ## References
