@@ -45,12 +45,6 @@ The translation of the GitHub CLI tutorial underwent a thorough review by [Tharn
 
 The result of the code review can be found [here](https://github.com/firstcontributions/first-contributions/pull/82798).
 
-
-
-
-
-
-
 ### Reflection on Success
 
 The translation process presented considerable challenges, particularly when encountering technical terms that were complex to render accurately in Sinhala. As a result, I made the decision to maintain certain terms in their original English form. This choice stemmed from the realization that readers are often more familiar with these terms in English, given their prevalence within GitHub's interface and documentation. Retaining these terms in English helps ensure better comprehension of the content and its associated processes.

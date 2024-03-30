@@ -367,7 +367,7 @@ The list of actions I took in related to pattern-library are:
    - Furthermore, I expanded on the READMEs by mentioning alternative programming languages where these design patterns could be applied, along with hyperlinks directing users to relevant resources for further exploration.
 
 
-
+# FOLLOW-UP QUESTIONS AND REFLECTIONS    
 
 ## References
 
@@ -379,7 +379,7 @@ Lua. (2024, March 1). About. Retrieved from Lua: https://www.lua.org/about.html#
 
 Lua. (n.d.). Lua. Retrieved from Lua: https://www.lua.org/home.html
 
-Stieg, C. (2022, November 16). Why Lua Is So Popular — & What You Can Build With It. Retrieved from Code Academy: https://www.codecademy.com/resources/blog/what-is-lua-programming-language-used-for/
+Stieg, C. (2022, November 16# FOLLOW-UP QUESTIONS AND REFLECTIONS    ). Why Lua Is So Popular — & What You Can Build With It. Retrieved from Code Academy: https://www.codecademy.com/resources/blog/what-is-lua-programming-language-used-for/
 
 Tutorials Point. (n.d.). Lua Tutorial. Retrieved from Tutorials Point: https://www.tutorialspoint.com/lua/index.htm
 
