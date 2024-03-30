@@ -367,7 +367,27 @@ The list of actions I took in related to pattern-library are:
    - Furthermore, I expanded on the READMEs by mentioning alternative programming languages where these design patterns could be applied, along with hyperlinks directing users to relevant resources for further exploration.
 
 
-# FOLLOW-UP QUESTIONS AND REFLECTIONS    
+# FOLLOW-UP QUESTIONS AND REFLECTIONS  
+
+In my opinion and based on the research I've conducted, JavaScript, which is my chosen programming language, is partially capable of object-oriented programming (OOP). Some individuals argue that it's not purely object-oriented because it lacks support for classes similar to Java. However, others contend that it exhibits object-oriented properties and therefore qualifies as an object-oriented language (Yusuf, 2020). 
+
+Unlike conventional object-oriented languages, JavaScript doesn't have classes; instead, it relies on objects. To be more specific, JavaScript follows a prototype-based object-oriented paradigm, where behaviors are defined using constructor functions and then reused through prototypes (Geeks for Geeks, 2023).
+
+In addition to supporting object-oriented programming, JavaScript also supports various other programming paradigms, such as functional programming, procedural programming, and event-driven programming  (Yusuf, 2020; GarrettMac, 2017; Maria, 2023).
+
+
+## References
+
+
+GarrettMac. (2017, September 14). Javascript’s 3 Major Paradigms: Introduction [part 1 of 4]. Retrieved from Medium: https://medium.com/@garrettmac/javascripts-3-major-paradigms-55b5e3b18b8c
+
+Geeks for Geeks. (2023, May 24). Introduction to Object Oriented Programming in JavaScript. Retrieved from Geeks for Geeks: https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/
+
+Maria, M. (2023, December 20). Programming Paradigms in JavaScript. Retrieved from https://dev.to/marmariadev/programming-paradigms-in-javascript-oop-functional-and-event-driven-57kn
+
+Yusuf, A.-a. (2020, October 25). Paradigms In JavaScript. Retrieved from Dev: https://dev.to/alamin__yusuf/paradigms-in-javascript-1m31
+
+
 
 ## References
 
