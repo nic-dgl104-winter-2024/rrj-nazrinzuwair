@@ -409,6 +409,16 @@ Yusuf, A.-a. (2020, October 25). Paradigms In JavaScript. Retrieved from Dev: ht
 
    - As [issue 19]((https://github.com/nic-dgl104-winter-2024/pattern-library/issues/19) ) was assigned to me, I then sent a [Slack message](https://digitaldesign-f2i3028.slack.com/archives/C06E2HSCFEY/p1711345646556449) to discuss the licensing scheme I selected for this repository, aiming to gather insights and feedback from others.
 
+2. Code Review: [Add JS Observer Pattern #3 #53](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/53)
+
+#### Initial Review
+
+I conducted a thorough code review of Katrina's implementation of the observer pattern using JavaScript. My focus was primarily on evaluating naming conventions, code clarity, and the inclusion of comments. I recommended the use of descriptive names to clearly convey the purpose of functions and variables. Additionally, I suggested removing unnecessary commented-out code related to switching between different button IDs. Furthermore, I advised Katrina to provide more descriptive comments to enhance understanding. Detailed feedback can be found [here](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/53#issuecomment-2017295394).
+
+#### Review After Revisions
+
+Following Katrina's revisions based on my feedback, I conducted a follow-up review of the Add JS Observer Pattern #3 #53 implementation. Upon review, I found that all suggested changes had been addressed, and the code now meets the required standards. I appreciated Katrina's efforts in incorporating the feedback and ensuring the code's quality, [here](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/53#issuecomment-2018496181).  
+
 ## References
 
 Academy, C. (n.d.). Learn Lua. Retrieved from Codecademy: https://www.codecademy.com/learn/learn-lua
