@@ -434,9 +434,9 @@ Yusuf, A.-a. (2020, October 25). Paradigms In JavaScript. Retrieved from Dev: ht
 
 4. Code Review: [Dev FP vs OOP #73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73)
 
-I conducted a code review on Sumit Joshi's comparison description of Functional Programming and OOP. The code review can be accessed [here](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73#issuecomment-2018568998).
+   I conducted a code review on Sumit Joshi's comparison description of Functional Programming and OOP. The code review can be accessed [here](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73#issuecomment-2018568998).
 
-   **Feedback Provided:**
+    **Feedback Provided:**
    - I suggested adding a couple more sections to the OOP Design Patterns and Functional Patterns as the content appeared to be limited.
    - Additionally, I recommended including a coding example of the Singleton within the overview itself, rather than redirecting to a link.
    - Given the focus on JavaScript programming language, I suggested providing information on how JavaScript is used in OOP Design Patterns and Functional Patterns.
@@ -444,6 +444,17 @@ I conducted a code review on Sumit Joshi's comparison description of Functional 
 
    **Review After Revisions:**
    - After Sumit Joshi made revisions based on the feedback provided, I rechecked the code and descriptions. Everything appeared to be in good order, so I provided another feedback comment, accessible [here](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73#issuecomment-2018772399).   
+
+5. License Selection Assessment and Feedback Integration
+
+   I assessed the insights and feedback provided by others on the selected license for the project.
+
+   Katrina shared her insights on the license selection in [issue 19](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/19), which can be accessed [here](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/19#issuecomment-2017999110). She proposed the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0) along with a list of its pros and cons.
+
+   To reach a conclusion, I conducted the following steps:
+   1. Compared the licenses previously mentioned by me (MIT License and GNU General Public License (GPL) version 3) with the license proposed by Katrina (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)) by evaluating their purposes, pros, and cons.
+   2. Upon evaluation, I found that having multiple licenses in our GitHub repository would be beneficial. I suggested using both the MIT License and Attribution-NonCommercial-ShareAlike 4.0 International License through a comment, which is accessible [here](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/19#issuecomment-2018477143).
+
 
 ## References
 
