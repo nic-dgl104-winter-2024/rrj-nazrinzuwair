@@ -486,14 +486,18 @@ Yusuf, A.-a. (2020, October 25). Paradigms In JavaScript. Retrieved from Dev: ht
 
 ## REFLECTIONS
 
-Reflections on Assignment Completion
+1. Reflections on Community CODE PROJECT Part 1:
 
-Throughout the completion of the assignment, which encompassed both the community code project and the research and reflection journal, I experienced significant growth in my critical thinking, problem-solving, and research abilities.
+   Throughout the completion of the assignment, which encompassed the community code project Part 1, I experienced significant growth in my critical thinking, problem-solving, and research abilities.
 
-Initially, I encountered challenges in understanding concepts such as forking repositories, creating branches, and making pull requests on GitHub. Watching tutorial videos multiple times, especially those by Ashley, was essential for me to grasp these concepts. However, as time passed and I immersed myself in the process, I became more proficient in navigating GitHub and contributing to my classmates' projects. This experience greatly enhanced my skills.
+   Initially, I encountered challenges in understanding concepts such as forking repositories, creating branches, and making pull requests on GitHub. Watching tutorial videos multiple times, especially those by Ashley, was essential for me to grasp these concepts. However, as time passed and I immersed myself in the process, I became more proficient in navigating GitHub and learning ways to contribute to external communities. This experience greatly enhanced my skills.
 
-I must admit that identifying an issue to contribute to in the community code project was initially daunting for me. I feared making mistakes. However, following the step-by-step instructions and required and recommended activities provided clarity and guided me through the process. This structure helped me overcome my initial difficulties and enabled me to contribute effectively.
+   I must admit that identifying an issue to contribute to in the community code project was initially daunting for me. I feared making mistakes. However, following the step-by-step instructions and required and recommended activities provided clarity and guided me through the process. This structure helped me overcome my initial difficulties and enabled me to contribute effectively.
 
-Additionally, my research skills improved significantly throughout the assignment. I learned how to identify reputable resources and properly integrate in-text citations and references into my work.
+   Additionally, my research skills improved significantly throughout the assignment. I learned how to identify reputable resources and properly integrate in-text citations and references into my work.
 
-Moreover, I gained valuable insights into writing a research and reflection journal. Personally, one of the most significant benefits I derived from this assignment was learning to chunk tasks into categories, prioritize them, and manage my time effectively to complete them. This approach has proven invaluable in both academic and personal endeavors.
+2. Reflections on Community CODE PROJECT Part 2:
+
+   Working on the pattern-library was very interesting, though it appeared so complex and scary with the tons of Slack messages popping from classmates. But when I checked the weekly required and recommended activities, it made my way to complete Part 2 super easy, and I was able to engage in code reviews on my classmates' works and also contributed to decisions, knowledge sharing, and coding on a few selected design patterns.
+
+   Moreover, I gained valuable insights into working on different issues assigned to me in the pattern-library. And, one of the most significant benefits I derived from this assignment was learning to chunk tasks into categories, prioritize them, and manage my time effectively to complete them. This approach has proven invaluable in both academic and personal endeavors.
