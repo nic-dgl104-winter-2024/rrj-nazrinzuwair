@@ -142,19 +142,22 @@ Upon reading the "How to Contribute to Open Source" guide, I gained a clear unde
 
     01. One repository that has captured my attention the most is [First Contributions](https://github.com/firstcontributions/first-contributions/). It is specifically designed to assist beginners in making their first contributions to open-source projects.  This repository is highly active, boasting over 5000 contributors and offering many language translations. Currently, there are about 16 active issues and 465 pull requests.
 
-        ![Checklist completed for First Contribution](C:\Users\user\Desktop\DGL 103\rrj-nazrinzuwair\First Contribution.png)
+   ![Checklist completed for First Contribution](https://github.com/nic-dgl104-winter-2024/rrj-nazrinzuwair/assets/144160072/5cbccdfc-ec7b-47d8-8f21-5a6f2ce72752)
+
 
     02. Another project that has piqued my interest is [Activist](https://github.com/activist-org/). This repository is dedicated to learning proven and innovative strategies for social and ecological change from one another. It is a valuable resource for those passionate about making a difference.
 
         Activist is not only a good repository but also a very active one, boasting a community of 93 contributors. Currently, there are 8 pull requests awaiting review. This project encompasses various aspects such as coding, design, and offers support for multiple programming languages including JavaScript, Python, Django, TypeScript, and more.
 
-        ![Checklist completed for activitist](C:\Users\user\Desktop\DGL 103\rrj-nazrinzuwair\Actvitist.png)
+        ![Checklist completed for activitist](https://github.com/nic-dgl104-winter-2024/rrj-nazrinzuwair/assets/144160072/db949c64-5d87-4fda-94bd-544346842dd5)
+
 
     03. The third project that catches my attention is [Teammates](https://github.com/TEAMMATES/teammates/), a valuable resource for managing peer evaluations and other feedback channels for students. This repository hosts the Teammates website, a free online tool designed for this purpose.
 
         Teammates is not only an impressive resource but also an active one, boasting a community of 639 contributors. Currently, it has 91 open issues and 28 pull requests awaiting review. With its active community and focus on enhancing student feedback mechanisms, I believe it's an excellent platform for contributing my skills.
 
-        ![Checklist completed for Teammates](C:\Users\user\Desktop\DGL 103\rrj-nazrinzuwair\Teammates.png)
+        ![Checklist completed for Teammates](https://github.com/nic-dgl104-winter-2024/rrj-nazrinzuwair/assets/144160072/92a8f4be-92e4-4209-8713-3e0e585195c3)
+
 
 ### EXPLORE COMMUNITY CONNECTIONS
 
