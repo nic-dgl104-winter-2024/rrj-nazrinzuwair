@@ -484,4 +484,16 @@ Yusuf, A.-a. (2020, October 25). Paradigms In JavaScript. Retrieved from Dev: ht
 **Documentation Contribution:**
 - [Contribution to Dev FP vs OOP #73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73)
 
+## REFLECTIONS
 
+Reflections on Assignment Completion
+
+Throughout the completion of the assignment, which encompassed both the community code project and the research and reflection journal, I experienced significant growth in my critical thinking, problem-solving, and research abilities.
+
+Initially, I encountered challenges in understanding concepts such as forking repositories, creating branches, and making pull requests on GitHub. Watching tutorial videos multiple times, especially those by Ashley, was essential for me to grasp these concepts. However, as time passed and I immersed myself in the process, I became more proficient in navigating GitHub and contributing to my classmates' projects. This experience greatly enhanced my skills.
+
+I must admit that identifying an issue to contribute to in the community code project was initially daunting for me. I feared making mistakes. However, following the step-by-step instructions and required and recommended activities provided clarity and guided me through the process. This structure helped me overcome my initial difficulties and enabled me to contribute effectively.
+
+Additionally, my research skills improved significantly throughout the assignment. I learned how to identify reputable resources and properly integrate in-text citations and references into my work.
+
+Moreover, I gained valuable insights into writing a research and reflection journal. Personally, one of the most significant benefits I derived from this assignment was learning to chunk tasks into categories, prioritize them, and manage my time effectively to complete them. This approach has proven invaluable in both academic and personal endeavors.
