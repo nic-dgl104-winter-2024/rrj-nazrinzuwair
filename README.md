@@ -7,12 +7,10 @@
 - [Week 10](#week-10)
 - [Week 11](#week-11)
 - [Week 12](#week-12)
-
+- [Contributions](#contributions-overview)
 
 
 ## Week 8 <a name="week-8"></a> - Research and Reflection Journal 
-
-## Day 1 - 26th February 2024
 
 ### RESEARCH A NEW LANGUAGE
 
@@ -29,7 +27,6 @@ There are many valuable online resources available for learning Lua. Some of my 
 ### REFLECT ON SLACK NEW LANGUAGE RESPONSES
 
 I've had the opportunity to delve into the responses shared by fellow students this week, and it's been enlightening. While exploring Lua, I stumbled upon valuable insights shared by my peers, which deepened my understanding of the language. Moreover, I gained a comprehensive overview of other languages like Haskell and Processing through their posts. This process not only expanded my knowledge but also helped me identify additional resources beyond what I initially discovered. It's been a rewarding experience, and I look forward to further exploration.
-
 
 ### WRITE A USER STORY    
 
@@ -57,22 +54,14 @@ The app that I have chosen is Facebook because of its popularity among diverse u
        3. The search field should provide relevant results based on keywords and hashtags.
 
 
-## Day 2 - 28th February 2024
-
 ### READ THE RESEARCH & REFLECTION ASSIGNMENT
 Today, I spent time carefully reading the Research & Reflection Assignment. I learned what's expected and how my work will be judged from the assignment description and rubric. Understanding this helps me start the assignment in a structured and effective way.
-
 
 ### CHOOSE A LANGUAGE FOR COMMUNITY CODE
 The language I would like to focus on for the community code project is JavaScript. I have years of experience using JavaScript, starting almost since my Higher National Diploma. Although my proficiency is at a basic level rather than advanced, I aim to utilize this opportunity to conduct thorough research on the language, improve my skills, and gain hands-on experience. One major reason why I chose JavaScript is because I believe that making weekly progress on the community project using this language will help me stay on track and learn about its complexity without giving up.
 
-## Day 3 - 1st March 2024
-
 ### STAR GITHUB TOPICS AND REPOSITORIES OF INTEREST
 While exploring my GitHub explorer tab, I noticed some repositories that caught my interest, such as ['tipjs/javascript-style-guide'](https://github.com/tipjs/javascript-style-guide) and ['ryanmcdermott/clean-code-javascript'](https://github.com/ryanmcdermott/clean-code-javascript). Then, I explored the Topics tab and found more intriguing repositories like ['freeCodeCamp/freeCodeCamp'](https://github.com/freeCodeCamp/freeCodeCamp) and ['Asabeneh/30-Days-Of-JavaScript'](https://github.com/Asabeneh/30-Days-Of-JavaScript), which I believe will help me achieve my goal of mastering JavaScript skills. Next, while browsing the trending section, I came across the repository ['LeCoupa/awesome-cheatsheets'](https://github.com/LeCoupa/awesome-cheatsheets), which offers useful JavaScript snippets for effective animation. After that, I checked the Collections tab and found the ['Front-end JavaScript frameworks'](https://github.com/collections/front-end-javascript-frameworks) collection, which aligns perfectly with my language preferences. Doing this helped me to fill my Explorer tab with some really interesting and valuable repositories.
-
-
-## Day 4 - 2nd March 2024
 
 ### FOLLOW-UP QUESTIONS AND REFLECTIONS
 
@@ -89,9 +78,23 @@ While exploring my GitHub explorer tab, I noticed some repositories that caught 
     - Examining repositories on GitHub proved to be incredibly valuable. I was particularly fascinated by the diverse techniques and programming styles employed by different contributors. It was surprising to see how contributors collaboratively work on a single repository, demonstrating the value of teamwork in producing high-quality outputs. Moreover, I observed similarities across some of the repositories, such as the use of modular code structures, comprehensive documentation, and active community engagement. 
 
 
-## Week 9 <a name="week-9"></a> - Research and Reflection Journal
+## REFERENCES
+Academy, C. (n.d.). Learn Lua. Retrieved from Codecademy: https://www.codecademy.com/learn/learn-lua
 
-## Day 5 - 05th March 2024
+Learning, L. (n.d.). Tutorials. Retrieved from Lua Learning: https://www.lualearning.org/
+
+Lua. (2024, March 1). About. Retrieved from Lua: https://www.lua.org/about.html#:~:text=What%20is%20Lua%3F,driven%20programming%2C%20and%20data%20description.
+
+Lua. (n.d.). Lua. Retrieved from Lua: https://www.lua.org/home.html
+
+Stieg, C. (2022, November 16# FOLLOW-UP QUESTIONS AND REFLECTIONS    ). Why Lua Is So Popular — & What You Can Build With It. Retrieved from Code Academy: https://www.codecademy.com/resources/blog/what-is-lua-programming-language-used-for/
+
+Tutorials Point. (n.d.). Lua Tutorial. Retrieved from Tutorials Point: https://www.tutorialspoint.com/lua/index.htm
+
+Wambua, D. W. (2022, February 4). Who Uses Lua? Companies That Use Lua and What Lua Is Used For. Retrieved from Career Karma: https://careerkarma.com/blog/who-uses-lua/
+
+
+## Week 9 <a name="week-9"></a> - Research and Reflection Journal
 
 ### READ THE COMMUNITY CODE ASSIGNMENT
 
@@ -106,8 +109,6 @@ For Part 2, I understand that I have to make my contributions to the DGL 104 pat
 
 I read the 'Research and Reflection Journal Guide', which was very helpful for me in understanding the lecturer's expectations. Initially, I completed my work using a different structure. However, after reading the 'Research and Reflection Journal Guide', I found a much better method to structure my journal. It also helped me identify the tense of language that I should use when writing it.
 
-
-## Day 6 - 07th March 2024
 
 ### READ “HOW TO CONTRIBUTE TO OPEN SOURCE”
 
@@ -171,7 +172,6 @@ Next, I explored [Activist](https://github.com/activist-org/) and found that the
 
 Lastly, I investigated [First Contributions](https://github.com/firstcontributions/first-contributions/) and noted that they provide a link to join their Slack team for assistance or inquiries via https://firstcontributors.slack.com/join/shared_invite/zt-29qhyr9lt-Bi7WLbgGIFqV7aCEG_grvg#/shared-invite/error. However, it seems that the provided link is currently inaccessible or broken.
 
-## Day 7 - 08th March 2024
 
 ### IDENTIFY ISSUES TO SUPPORT
 
@@ -206,7 +206,7 @@ Discussion:
 ### WRITE A SUMMARY ON SLACK
 I added a summary on slack on 21st of March 2023 for one of the issues I identified in the “Identify Issues to Support” activity as follows:
 
-**"Hey everyone, I wanted to bring your attention to an issue in the First Contributions project on GitHub. The issue is about adding translations for cli-tool-tutorials.**
+    "Hey everyone, I wanted to bring your attention to an issue in the First Contributions project on GitHub. The issue is about adding translations for cli-tool-tutorials."
 
 **Issue:** [Add translations for cli-tool-tutorials](https://github.com/firstcontributions/first-contributions/issues/62077)
 
@@ -214,8 +214,6 @@ I added a summary on slack on 21st of March 2023 for one of the issues I identif
 
 **Contribution Opportunity:** I'm considering contributing by translating the content into Sinhala, the native language of Sri Lanka. This would make the project more accessible to Sinhala-speaking developers and encourage their participation in open source."
 
-
-## Day 8 - 09th March 2024
 
 ### FOLLOW-UP QUESTIONS AND REFLECTIONS
 
@@ -233,10 +231,10 @@ I find myself most drawn to web development-related projects, particularly those
 
 Reflecting on my choice of programming language from last week, I still believe that selecting JavaScript was the right decision. It has provided me with ample opportunities to enhance my knowledge and skills. Therefore, I see no reason to consider alternatives at this time.
 
+## REFERENCES
 
 ## Week 10 <a name="week-10"></a> - Research and Reflection Journal
 
-## Day 9 - 22nd March 2024
 
 ### COMMUNITY CODE PROCESSES
 
@@ -264,23 +262,19 @@ Their [CODE-OF-CONDUCT.md](https://github.com/firstcontributions/first-contribut
 
 Thus, the guidelines provided are very easy to understand and follow, making the contribution process accessible to all individuals interested in participating.
 
-## Day 10 - 25th March 2024
-
 ### WRITE A SUMMARY ON SLACK
 
 I added a summary on slack on 25th of March 2023 on what you have learned about the community I chosen in terms of contributing as:
 
-**"I've been exploring the [First Contributions](https://github.com/firstcontributions/first-contributions/tree/main) repository for open-source community contributions. The community is dedicated to simplifying and guiding beginners through their first contributions.**
+    "I've been exploring the [First Contributions](https://github.com/firstcontributions/first-contributions/tree/main) repository for open-source community contributions. The community is dedicated to simplifying and guiding beginners through their first contributions.
 
-**They provide clear, step-by-step instructions with accompanying images for forking the repository, cloning it, creating branches, making changes, pushing them, and submitting for review. Additionally, they offer a link to an external GitHub repository for setting up Git on a local machine, which you can find [here](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git).**
+    They provide clear, step-by-step instructions with accompanying images for forking the repository, cloning it, creating branches, making changes, pushing them, and submitting for review. Additionally, they offer a link to an external GitHub repository for setting up Git on a local machine, which you can find [here](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git).
 
-**Moreover, the [CODE-OF-CONDUCT.md](https://github.com/firstcontributions/first-contributions/blob/main/CODE_OF_CONDUCT.md) emphasizes values of respect, empathy, and professionalism, while prohibiting harassment or discrimination. They encourage community members to adhere to this code, fostering a safe and welcoming environment for collaboration and mutual respect among all participants."**
+    Moreover, the [CODE-OF-CONDUCT.md](https://github.com/firstcontributions/first-contributions/blob/main/CODE_OF_CONDUCT.md) emphasizes values of respect, empathy, and professionalism, while prohibiting harassment or discrimination. They encourage community members to adhere to this code, fostering a safe and welcoming environment for collaboration and mutual respect among all participants."
 
 ### CONTRIBUTE TO EXTERNAL COMMUNITY
 
 Please refer to the [CONTRIBUTING.md](https://github.com/nic-dgl104-winter-2024/rrj-nazrinzuwair/blob/main/CONTRIBUTING.md) file for a detailed description of this activity.
-
-## Day 11 - 22nd March 2024
 
 ### CONTRIBUTE TO PATTERN-LIBRARY
 
@@ -297,16 +291,12 @@ After careful consideration, I eagerly awaited assignment to these issues to beg
 
 The most challenging task I encountered this week for DGL 104 was allocating time for both Part 1 and Part 2 of the community code project, along with writing reflections in the journal. I followed a method of working on both simultaneously, which led me to fall a bit behind schedule. To overcome this challenge, I adopted a different approach. I prioritized addressing the issues in the pattern-library project and requested assignment to them. I learnt that by focusing on tasks with closer deadlines, I could better manage my time and ensure timely completion of essential project components.
 
-# WEEK 11
 
-## Day 12 - 22nd March 2024
+# WEEK 11 <a name="week-11"></a> - Research and Reflection Journal
 
 ### CONNECT WITH YOUR EXTERNAL COMMUNITY
 
 In my endeavor to join First Contributions external community channels, I discovered that they utilize Slack as their primary community channel, with encouragement for all contributors to join. However, upon attempting to access the provided link (https://firstcontributors.slack.com/join/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w#/shared-invite/error), it appears to be broken, thus hindering my ability to connect.
-
-
-## Day 13: 23rd March 2024
 
 ### READ THROUGH PATTERN LIBRARY ISSUES
 
@@ -318,9 +308,6 @@ Today, I initiated my contribution to the Pattern Library repository by searchin
 **Issue Assignment**
 
 I promptly requested to be assigned to these issues by commenting on the respective threads. Unfortunately, my request for issue #57 was rejected as the assignees were deemed sufficient for the task. However, I was successfully assigned to work on issue #45.
-
-
-## Day 14
 
 ### CONTINUE CONTRIBUTIONS TO EXTERNAL COMMUNITY
 
@@ -388,11 +375,11 @@ Maria, M. (2023, December 20). Programming Paradigms in JavaScript. Retrieved fr
 Yusuf, A.-a. (2020, October 25). Paradigms In JavaScript. Retrieved from Dev: https://dev.to/alamin__yusuf/paradigms-in-javascript-1m31
 
 
-# WEEK 12
-
-## Day 15
+# WEEK 12<a name="week-12"></a> - Research and Reflection Journal
 
 ### CONTINUE CONTRIBUTIONS TO EXTERNAL COMMUNITY
+
+1. Refinement of [Cli-Tool-Tutorial Sinhala translation](https://github.com/nazrinzuwair/first-contributions/tree/cli-tool-tutorial-sinhala-translation): Incorporating Feedback
 
    - I received feedback from the peer review conducted by [Tharnindu Mudduwe Jayasekara](https://github.com/tharinduj31) on the translations. The comments can be accessed via [this link](https://github.com/firstcontributions/first-contributions/pull/82798#discussion_r1538744600).
 
@@ -402,6 +389,13 @@ Yusuf, A.-a. (2020, October 25). Paradigms In JavaScript. Retrieved from Dev: ht
 
 ![alt text](image-2.png)
 
+2. Review on Tharindu’s [Amending commit translation - Sinhala #82805](https://github.com/firstcontributions/first-contributions/pull/82805).
+
+   - First, I delved into the English version of the translation, which is accessible [here](https://github.com/tharinduj31/first-contributions/blob/add-tharindu-jayasekara/additional-material/git_workflow_scenarios/amending-a-commit.md). Then, I compared Tharindu's Sinhala translation to assess its clarity and accuracy.
+
+   - I found several grammar and wording errors in the Sinhala translation and suggested improvements to Tharindu through a [comment](https://github.com/firstcontributions/first-contributions/pull/82805#issuecomment-2022033780).
+
+   - After Tharindu made amendments based on my suggestions, I conducted another review on his revised version. Upon inspection, I found it to be satisfactory, so I left a comment in the repository, which can be viewed [here](https://github.com/firstcontributions/first-contributions/pull/82805#issuecomment-2023806820).
 
 ### CONTINUE CONTRIBUTIONS TO PATTERN-LIBRARY
 
@@ -466,18 +460,28 @@ Yusuf, A.-a. (2020, October 25). Paradigms In JavaScript. Retrieved from Dev: ht
    - Identified the need to rename the "Observal" directory to "Observer" for consistency.
    - Noted inconsistency in the naming conventions of directories throughout the project and recommended utilizing hyphen-separated naming (kebab-case) for file names to ensure compatibility, readability, and consistency.
 
-## References
+## Contributions Overview <a name="contributions-overview"></a>
 
-Academy, C. (n.d.). Learn Lua. Retrieved from Codecademy: https://www.codecademy.com/learn/learn-lua
+### 1. Community Code Contributions
 
-Learning, L. (n.d.). Tutorials. Retrieved from Lua Learning: https://www.lualearning.org/
+**Contributions by Myself:**
+- [First Contributions - CLI Tool Tutorial Sinhala Translation](https://github.com/nazrinzuwair/first-contributions/tree/cli-tool-tutorial-sinhala-translation)
 
-Lua. (2024, March 1). About. Retrieved from Lua: https://www.lua.org/about.html#:~:text=What%20is%20Lua%3F,driven%20programming%2C%20and%20data%20description.
+**Reviews on Others' Contributions:**
+- [Review on Amending Commit Translation - Sinhala #82805](https://github.com/firstcontributions/first-contributions/pull/82805) 
 
-Lua. (n.d.). Lua. Retrieved from Lua: https://www.lua.org/home.html
+### 2. Pattern-Library Contributions
 
-Stieg, C. (2022, November 16# FOLLOW-UP QUESTIONS AND REFLECTIONS    ). Why Lua Is So Popular — & What You Can Build With It. Retrieved from Code Academy: https://www.codecademy.com/resources/blog/what-is-lua-programming-language-used-for/
+**Contributions by Myself:**
+- [Identifying Potential Additional Design Patterns #26](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/26)
+- [Proposing a New Filename Scheme for All Pattern Files #45](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/45)
+- [Researching a Preferred Licensing Scheme for This Repository #19](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/19)
 
-Tutorials Point. (n.d.). Lua Tutorial. Retrieved from Tutorials Point: https://www.tutorialspoint.com/lua/index.htm
+**Code Reviews:**
+- [Review on Abstract Factory and Design Patterns Folder Structure](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/50)
+- [Review on Add JS Observer Pattern #3 #53](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/53)
 
-Wambua, D. W. (2022, February 4). Who Uses Lua? Companies That Use Lua and What Lua Is Used For. Retrieved from Career Karma: https://careerkarma.com/blog/who-uses-lua/
+**Documentation Contribution:**
+- [Contribution to Dev FP vs OOP #73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73)
+
+
