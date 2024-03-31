@@ -501,3 +501,7 @@ Yusuf, A.-a. (2020, October 25). Paradigms In JavaScript. Retrieved from Dev: ht
    Working on the pattern-library was very interesting, though it appeared so complex and scary with the tons of Slack messages popping from classmates. But when I checked the weekly required and recommended activities, it made my way to complete Part 2 super easy, and I was able to engage in code reviews on my classmates' works and also contributed to decisions, knowledge sharing, and coding on a few selected design patterns.
 
    Moreover, I gained valuable insights into working on different issues assigned to me in the pattern-library. And, one of the most significant benefits I derived from this assignment was learning to chunk tasks into categories, prioritize them, and manage my time effectively to complete them. This approach has proven invaluable in both academic and personal endeavors.
+
+3. Reflections on Reseach and Reflection Journal
+
+   After working on the research and reflective journal, I came to understand the importance of maintaining such a journal and how it can aid me in staying organized to complete assignments on time and maintain focus. Additionally, it helped me engage in self-analysis and assess my progress after each reflection made on weekly tasks. This process further enabled me to identify areas that require additional focus and improvement.
