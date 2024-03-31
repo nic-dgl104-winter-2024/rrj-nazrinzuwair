@@ -312,8 +312,8 @@ In my endeavor to join First Contributions external community channels, I discov
 
 Today, I initiated my contribution to the Pattern Library repository by searching for potential tasks to undertake. After careful consideration, I found two issues that aligned well with my skills and interests:
 
-1. Add JavaScript implementation of Template pattern #57
-2. Propose a new filename scheme for all pattern files #45
+1. [Add JavaScript implementation of Template pattern #57] (https://github.com/nic-dgl104-winter-2024/pattern-library/issues/57)
+2. [Propose a new filename scheme for all pattern files #45] (https://github.com/nic-dgl104-winter-2024/pattern-library/issues/45)
 
 **Issue Assignment**
 
@@ -432,7 +432,7 @@ Yusuf, A.-a. (2020, October 25). Paradigms In JavaScript. Retrieved from Dev: ht
    - Corrected grammatical errors, such as changing "youngers" to "youngsters".
    - Condensed multiple paragraphs discussing each food and its associated benefits into a single paragraph to reduce unnecessary repetition.
 
-4. [Code Review: Dev FP vs OOP #73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73)
+4. Code Review: [Dev FP vs OOP #73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73)
 
 I conducted a code review on Sumit Joshi's comparison description of Functional Programming and OOP. The code review can be accessed [here](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73#issuecomment-2018568998).
 
