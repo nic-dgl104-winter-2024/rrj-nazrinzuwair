@@ -456,6 +456,16 @@ Yusuf, A.-a. (2020, October 25). Paradigms In JavaScript. Retrieved from Dev: ht
    2. Upon evaluation, I found that having multiple licenses in our GitHub repository would be beneficial. I suggested using both the MIT License and Attribution-NonCommercial-ShareAlike 4.0 International License through a comment, which is accessible [here](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/19#issuecomment-2018477143).
 
 
+6. Proposal for New Filename Scheme for Pattern Files [issue 45](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/45)
+
+   Before proposing a filename scheme for the pattern files, I first reviewed the comments made by [Kai](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/45#issuecomment-2016937823) and [Katrina](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/45#issuecomment-2017857362).
+
+   Then, I shared my insights through a [comment](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/45#issuecomment-2018426411) with the following points:
+
+   - Suggested opting for more descriptive names for subdirectories and reducing duplicate names for subdirectories.
+   - Identified the need to rename the "Observal" directory to "Observer" for consistency.
+   - Noted inconsistency in the naming conventions of directories throughout the project and recommended utilizing hyphen-separated naming (kebab-case) for file names to ensure compatibility, readability, and consistency.
+
 ## References
 
 Academy, C. (n.d.). Learn Lua. Retrieved from Codecademy: https://www.codecademy.com/learn/learn-lua
