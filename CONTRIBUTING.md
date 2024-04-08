@@ -59,12 +59,35 @@ In conclusion, while the translation process presented hurdles, collaboration wi
 The next step involves proofreading the translated document thoroughly. This ensures that any remaining errors or inconsistencies are identified and corrected, guaranteeing the final translation is polished and accurate. Additionally, seeking feedback from peers or reviewers can provide valuable insights to further refine the document. Once the proofreading process is complete, the final version can be confidently shared with the target audience, contributing to the success and impact of the project.
 
 
-# Reference
+## Reference
 First Contribution   s. (n.d.). first-contributions. Retrieved from https://github.com/firstcontributions/first-contributions
 
 # PART 2 - CONTRIBUTION TO DGL 104 PATTERN LIBRARY REPOSITORY
 
+## List of Contributions
+
+**Contributions by Myself:**
+- [Identifying Potential Additional Design Patterns #26](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/26)
+- [Proposing a New Filename Scheme for All Pattern Files #45](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/45)
+- [Researching a Preferred Licensing Scheme for This Repository #19](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/19)
+
+**Code Reviews:**
+- [Review on John's Abstract Factory and Design Patterns Folder Structure](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/50)
+- [Review on Katrina's Add JS Observer Pattern #3 #53](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/53)
+
+**Documentation Contribution:**
+- [Review on Sumit's Contribution to Dev FP vs OOP #73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73)
 
 
-## Reflection
+## Reflection on Success
+In this task, my main focus was on examining issues related to my chosen programming language, which was JavaScript. Apart from code contributions, I also participated in code review, documentation, and research activities. Regarding code contributions, my focus was mainly on design patterns, specifically the Facade design pattern and Abstract Factory design pattern. I provided detailed overviews of each design system in separate files and included code snippets to elaborate on them. As for code review, I reviewed repositories belonging to Sumit, John, and Katrina, and commented on identified issues, requesting amendments. I then re-reviewed the code after their amendments, simultaneously, until the issues were resolved. Additionally, I conducted research to identify the best license for the pattern-library repository. Overall, contributing to Part 2 of the project helped me improve my knowledge and skills, as well as enhance teamwork abilities.
 
+## References
+
+GarrettMac. (2017, September 14). Javascript’s 3 Major Paradigms: Introduction [part 1 of 4]. Retrieved from Medium: https://medium.com/@garrettmac/javascripts-3-major-paradigms-55b5e3b18b8c
+
+Geeks for Geeks. (2023, May 24). Introduction to Object Oriented Programming in JavaScript. Retrieved from Geeks for Geeks: https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/
+
+Maria, M. (2023, December 20). Programming Paradigms in JavaScript. Retrieved from https://dev.to/marmariadev/programming-paradigms-in-javascript-oop-functional-and-event-driven-57kn
+
+Yusuf, A.-a. (2020, October 25). Paradigms In JavaScript. Retrieved from Dev: https://dev.to/alamin__yusuf/paradigms-in-javascript-1m31

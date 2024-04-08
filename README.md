@@ -8,6 +8,7 @@
 - [Week 11](#week-11)
 - [Week 12](#week-12)
 - [Contributions](#contributions-overview)
+- [Reflection](#reflection-summary)
 
 
 ## Week 8 <a name="week-8"></a> - Research and Reflection Journal 
@@ -487,24 +488,40 @@ Yusuf, A.-a. (2020, October 25). Paradigms In JavaScript. Retrieved from Dev: ht
 **Documentation Contribution:**
 - [Contribution to Dev FP vs OOP #73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73)
 
-## REFLECTIONS
+## REFLECTIONS <a name="reflection-summary"></a>
+
 
 1. Reflections on Community CODE PROJECT Part 1:
 
-   Throughout the completion of the assignment, which encompassed the community code project Part 1, I experienced significant growth in my critical thinking, problem-solving, and research abilities.
+   For the Community Code Project Part 1, my contribution to open source was through translation. I found a popular GitHub repository primarily targeting and assisting first-time contributors called [First-contributions](https://github.com/firstcontributions/first-contributions/). This repository offers translations in 77 languages. I discovered an issue where they requested [additions to translations for cli-tool-tutorials](https://github.com/firstcontributions/first-contributions/issues/62077), which piqued my interest. Before proceeding, I checked the existing translations and decided to translate it into Sinhala, the primary language in Sri Lanka. I forked the repository to my local machine, created a branch to work on it, and with the help of my colleague, Tharindu, I reviewed the translation and made necessary amendments.
 
-   Initially, I encountered challenges in understanding concepts such as forking repositories, creating branches, and making pull requests on GitHub. Watching tutorial videos multiple times, especially those by Ashley, was essential for me to grasp these concepts. However, as time passed and I immersed myself in the process, I became more proficient in navigating GitHub and learning ways to contribute to external communities. This experience greatly enhanced my skills.
+   Moreover, I also engaged in translation review on Tharindu’s [Amending commit translation - Sinhala #82805](https://github.com/firstcontributions/first-contributions/pull/82805). Here, first, I delved into the English version of the translation, then compared Tharindu's Sinhala translation to assess its clarity and accuracy. I offered feedback to improve the grammar and wording errors in the Sinhala translation and conducted another review after he made the amendments.
 
-   I must admit that identifying an issue to contribute to in the community code project was initially daunting for me. I feared making mistakes. However, following the step-by-step instructions and required and recommended activities provided clarity and guided me through the process. This structure helped me overcome my initial difficulties and enabled me to contribute effectively.
-
-   Additionally, my research skills improved significantly throughout the assignment. I learned how to identify reputable resources and properly integrate in-text citations and references into my work.
 
 2. Reflections on Community CODE PROJECT Part 2:
 
-   Working on the pattern-library was very interesting, though it appeared so complex and scary with the tons of Slack messages popping from classmates. But when I checked the weekly required and recommended activities, it made my way to complete Part 2 super easy, and I was able to engage in code reviews on my classmates' works and also contributed to decisions, knowledge sharing, and coding on a few selected design patterns.
+   Working on the pattern-library issues was very interesting because there were many issues posted in different programming languages. However, I focused on the coding issues which were only related to the JavaScript programming language, as it was the chosen language by myself, and I hoped to improve my skills further on it. The issue was to identify a potential shortlist of additional design patterns [#26](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/26), and I worked on it by first creating folders named "Factory-Design-Pattern" and "Facade-Pattern" inside the PATTERN-LIBRARY directory, where each folder contained a README.md file and JavaScript files (factory-method.js and facade-pattern.js). I then included a summary of implementing the Factory Design Pattern and Facade-pattern in JavaScript with code snippets as examples. 
 
-   Moreover, I gained valuable insights into working on different issues assigned to me in the pattern-library. And, one of the most significant benefits I derived from this assignment was learning to chunk tasks into categories, prioritize them, and manage my time effectively to complete them. This approach has proven invaluable in both academic and personal endeavors.
+   The next contribution was related to research on Research a preferred licensing scheme for the repository [#19](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/19). I first researched the suggestions provided by other contributors on the licensing scheme and then conducted my own research on the licensing scheme with consideration of the purpose of the repository. I found that having multiple licenses in the pattern-library repository would be beneficial. As such, I suggested using both the MIT License and Attribution-NonCommercial-ShareAlike 4.0 International License.
 
-3. Reflections on Reseach and Reflection Journal
+   Next, I also did code reviews on my classmates' repositories of Dev FP vs OOP [#73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73), Add JS Observer Pattern #3 [#53](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/53), and Abstract Factory and design patterns folder structure [#50](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/50) and offered feedbacks for improvement. This helped me a lot to improve my review skills. My final contribution was engaging in a discussion about the Proposal for New Filename Scheme for Pattern Files issue [45](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/45). Myself, Katrina, and Saif were able to share our ideas via comments about the proposal for a New Filename Scheme for Pattern Files and how it will improve the naming scheme.
+
+   Working on the pattern-library was very interesting, though it appeared complex and daunting with the tons of Slack messages popping from classmates. But when I checked the weekly required and recommended activities, it made my way to complete Part 2 super easy, and I was able to engage in code reviews on my classmates' works and also contribute to decisions, knowledge sharing, and coding on a few selected design patterns.
+
+3. Reflections on technical knowledge in design/architectural patterns   
+
+   I already had a basic knowledge about design/architectural patterns from my Bachelor's studies, so this was a good opportunity for me to revise my knowledge and address any confusions I had. The main reasons for choosing the Abstract Factory design pattern and Facade design pattern are because of the different functionalities they offer and how each is unique in nature. Through the contribution to the issue [#26](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/26), I was able to learn about the ways to implement it using JavaScript because I knew how to do it using C#, which I learned during my Bachelor's. This was a good opportunity for me to learn how to implement it using JavaScript.
+
+   Moreover, actively engaging in discussions with other contributors broadened my perspective on various design patterns and their practical implications in real-world scenarios.
+
+4. Reflections on Reseach and Reflection Journal
 
    After working on the research and reflective journal, I came to understand the importance of maintaining such a journal and how it can aid me in staying organized to complete assignments on time and maintain focus. Additionally, it helped me engage in self-analysis and assess my progress after each reflection made on weekly tasks. This process further enabled me to identify areas that require additional focus and improvement.
+
+
+5. The ways in which the Community Code project has supported my growth. 
+
+   Throughout the completion of the Part 1 and part 2, I experienced significant growth in critical thinking, problem-solving, and research abilities. Initially, I encountered challenges in understanding concepts such as forking repositories, creating branches, and making pull requests on GitHub. Watching tutorial videos multiple times, especially those by Ashley, was essential for me to grasp these concepts. However, as time passed and I immersed myself in the process, I became more proficient in navigating GitHub and learning ways to contribute to external communities. This experience greatly enhanced my skills. I must admit that identifying an issue to contribute to in the Community Code Project both part 1 and part 2 was initially daunting for me, and I feared making mistakes. However, following the step-by-step instructions and required and recommended activities provided clarity and guided me through the process. This structure helped me overcome my initial difficulties and enabled me to contribute effectively. Additionally, my research skills improved significantly throughout the assignment. I learned how to identify reputable resources and properly integrate in-text citations and references into my work. Moreover, one of the most significant benefits I derived from this assignment was learning to chunk tasks into categories, prioritize them, and manage my time effectively to complete them. This approach has proven invaluable in both academic and personal endeavors.
+   
+
+
