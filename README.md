@@ -360,11 +360,17 @@ The list of actions I took in related to pattern-library are:
 
 # FOLLOW-UP QUESTIONS AND REFLECTIONS  
 
-In my opinion and based on the research I've conducted, JavaScript, which is my chosen programming language, is partially capable of object-oriented programming (OOP). Some individuals argue that it's not purely object-oriented because it lacks support for classes similar to Java. However, others contend that it exhibits object-oriented properties and therefore qualifies as an object-oriented language (Yusuf, 2020). 
+1. Determine if your chosen programming language is OOP capable. 
 
-Unlike conventional object-oriented languages, JavaScript doesn't have classes; instead, it relies on objects. To be more specific, JavaScript follows a prototype-based object-oriented paradigm, where behaviors are defined using constructor functions and then reused through prototypes (Geeks for Geeks, 2023).
+   - In my opinion and based on the research I've conducted, JavaScript, which is my chosen programming language, is partially capable of object-oriented programming (OOP). Some individuals argue that it's not purely object-oriented because it lacks support for classes similar to Java. However, others contend that it exhibits object-oriented properties and therefore qualifies as an object-oriented language (Yusuf, 2020). 
 
-In addition to supporting object-oriented programming, JavaScript also supports various other programming paradigms, such as functional programming, procedural programming, and event-driven programming  (Yusuf, 2020; GarrettMac, 2017; Maria, 2023).
+2. To what extent does it support OOP? Fully, or partially? 
+
+   - Unlike conventional object-oriented languages, JavaScript doesn't have classes; instead, it relies on objects. To be more specific, JavaScript follows a prototype-based object-oriented paradigm, where behaviors are defined using constructor functions and then reused through prototypes (Geeks for Geeks, 2023).
+
+3. Does it support any other paradigms? 
+
+   - In addition to supporting object-oriented programming, JavaScript also supports various other programming paradigms, such as functional programming, procedural programming, and event-driven programming  (Yusuf, 2020; GarrettMac, 2017; Maria, 2023).
 
 
 ## References
